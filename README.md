@@ -15,6 +15,10 @@ I find the inspiration for most of my acticle by working on one of my repositori
 * [Startup infra for small self-hosted project](https://github.com/xNok/infra-bootstrap-tools)
 * [Python State Machine practice exercises](https://github.com/xNok/pystatemachine)
 
+## DevOps Lean Six Sigma Toolbox
+
+* [How to Build a “Smarter” DevOps Roadmap — The SMART Maturity Assessment Method](https://adevait.com/devops/smart-maturity-assessment)
+
  ## Building Slack Bots in Golang using Socket Mode
  
  ### Main Series
@@ -30,6 +34,11 @@ I find the inspiration for most of my acticle by working on one of my repositori
 * [Handler and Middleware design pattern in Golang](https://medium.com/codex/handler-and-middleware-design-pattern-in-golang-de23ec452fce?sk=0eed25a60858ad985ad22274505fb992)
 * [Diagrams as code 3 must have tools](https://medium.com/geekculture/3-diagram-as-code-tools-that-combined-cover-all-your-needs-8f40f57d5cd8?sk=52fe49e20d7b3a37123d07b29b102696)
 * [Golang’s untyped constants might make your work easier. But there’s a catch](https://betterprogramming.pub/stop-mixing-constants-with-the-type-string-in-golang-d3589d8ae84d?sk=455a5bb28fc70eae0c3b40013c0526dd)
+
+## Themed SCRUM Retrospective
+
+* [Foodies delight — Themed Scrum Retrospective](https://medium.com/agileinsider/foodies-delight-themed-scrum-retrospective-f40e0cffed1b?sk=81d18be55b6e7b8f9d1e1a1dbe1c8ab9)
+* [Superheroes — Themed Scrum Retrospective](https://medium.com/agileinsider/superheros-themed-scrum-retrospective-ea988b4d14e1?sk=f868b8e58f94207b8bb1e1bad8bef40a)
 
 
 <!--
