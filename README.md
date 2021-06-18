@@ -28,6 +28,8 @@ I find the inspiration for most of my acticle by working on one of my repositori
 * [Properly Welcome Users in Slack with Golang using Socket Mode](https://levelup.gitconnected.com/properly-welcome-users-in-slack-with-golang-using-socket-mode-9a206d30a34a?sk=24fb8c44c1128cc3ef366d51d4a48812)
 * [Implement Slack Slash Command with Golang using Socket Mode](https://levelup.gitconnected.com/implement-slack-slash-command-in-golang-using-socket-mode-ac693e38148c?sk=33e90a65aded42cd4737ff6a137762cc)
 
+* [Introduction to App Manifest: A Long-Awaited Feature by Slack App Developers is Now in Beta](https://levelup.gitconnected.com/introduction-to-app-manifest-a-long-awaited-feature-by-slack-app-developers-is-now-in-beta-fe35e8f914ee?sk=c89236c1d6804b138ae19675b8883079)
+
 ### Other topics
 
 * [Manage Static Assets in Golang](https://couedeloalexandre.medium.com/manage-static-assets-with-embed-golang-1-16-75c89c3eea39?sk=d903d7b0532aff64243ef419346f804b)
