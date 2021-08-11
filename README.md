@@ -18,6 +18,7 @@ I find the inspiration for most of my acticle by working on one of my repositori
 ## DevOps Lean Six Sigma Toolbox
 
 * [How to Build a “Smarter” DevOps Roadmap — The SMART Maturity Assessment Method](https://adevait.com/devops/smart-maturity-assessment)
+* [Using Continuous Testing in DevOps Workflows](https://earthly.dev/blog/continuous-testing-in-devops/)
 
  ## Building Slack Bots in Golang using Socket Mode
  
