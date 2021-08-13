@@ -20,9 +20,13 @@ I find the inspiration for most of my acticle by working on one of my repositori
 * [How to Build a “Smarter” DevOps Roadmap — The SMART Maturity Assessment Method](https://adevait.com/devops/smart-maturity-assessment)
 * [Using Continuous Testing in DevOps Workflows](https://earthly.dev/blog/continuous-testing-in-devops/)
 
- ## Building Slack Bots in Golang using Socket Mode
+## Python State Machine practice exercises
+
+* [5 Tips to Customise Python Command-Line Interfaces](https://betterprogramming.pub/5-tips-to-customise-python-command-line-interfaces-691b0b39f610?sk=5ac5a76c740bd04f5881af8a485a68a0)
+
+## Building Slack Bots in Golang using Socket Mode
  
- ### Main Series
+### Main Series
 
 * [Every Slack Application starts with a few simple steps](https://medium.com/geekculture/build-slack-application-in-golang-using-socket-mode-setting-up-57f454e63c0a?sk=03196a8c492a76cd7ef9a73628fe4524)
 * [Build Your Slack App Home in Golang Using Socket Mode](https://betterprogramming.pub/build-a-slack-app-home-in-golang-using-socket-mode-aff7b855bb31?sk=b8b1f7f3c03972793b26bec02dc3d2cc)
