@@ -14,11 +14,16 @@ I find the inspiration for most of my acticle by working on one of my repositori
 * [DevOps Lean Six Sigma Toolbox](https://github.com/xNok/devops-lean-6sigma-toolbox)
 * [Startup infra for small self-hosted project](https://github.com/xNok/infra-bootstrap-tools)
 * [Python State Machine practice exercises](https://github.com/xNok/pystatemachine)
+* [The Math Behind Kubernetes](https://github.com/xNok/The-math-behind-kubernetes)
 
 ## DevOps Lean Six Sigma Toolbox
 
 * [How to Build a “Smarter” DevOps Roadmap — The SMART Maturity Assessment Method](https://adevait.com/devops/smart-maturity-assessment)
 * [Using Continuous Testing in DevOps Workflows](https://earthly.dev/blog/continuous-testing-in-devops/)
+
+## The Math Behind Kubernetes
+
+* [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
 
 ## Python State Machine practice exercises
 
