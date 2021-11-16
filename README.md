@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 
-I publish a lot of technical article, you can find my pieces here:
+I publish a lot of technical articles, you can find my pieces here:
 
 <p>
 <a href="https://couedeloalexandre.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <a href="https://dev.to/xnok"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 </p>
 
-I find the inspiration for most of my acticle by working on one of my repositories. Here is a list of featured repository and articles related:
+I find the inspiration for most of my articles by working on one of my repositories. Here is a list of featured repositories and articles related:
 
 * [DEVOPS AND LEAN THINKING Toolbox](https://github.com/xNok/devops-lean-6sigma-toolbox)
 
@@ -16,15 +16,15 @@ I find the inspiration for most of my acticle by working on one of my repositori
 
 * [Slack Bots in Golang using Socket Mode](https://github.com/xNok/slack-go-demo-socketmode)
 
-> My take on creatig Slack Bots in Golang
+> My take on creating Slack Bots in Golang
 
 * [The Math Behind Kubernetes](https://github.com/xNok/The-math-behind-kubernetes)
 
-> Kubernetes Operation and Management raises a lot of intresting mathematical probleme very similar to those I studies in Industrial Engineering. The repo is an oportunity to look at Kubernetes under another angle.
+> Kubernetes Operation and Management raises many interesting mathematical problems very similar to those I studies in Industrial Engineering. The repo is an opportunity to look at Kubernetes from another angle.
 
-* [Startup infra for small self-hosted project](https://github.com/xNok/infra-bootstrap-tools)
+* [Startup infra for a small self-hosted project](https://github.com/xNok/infra-bootstrap-tools)
 
-> Tutorial ans automation script to get started with DevOps best practices
+> Tutorial and automation script to get started with DevOps best practices
 
 * [Python State Machine practice exercises](https://github.com/xNok/pystatemachine)
 
