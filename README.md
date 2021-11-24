@@ -76,6 +76,7 @@ I find the inspiration for most of my articles by working on one of my repositor
 ## Other Articles on DevOPS
 
 * [Continuous integration vs continuous delivery vs continuous deployment](https://www.gologic.ca/en/continuous-integration-vs-continuous-delivery-vs-continuous-deployment/)
+* [What is CI/CD and how to apply it in your organization?](https://www.gologic.ca/en/what-is-ci-cd-and-how-to-apply-it-in-your-organization/)
 * [How to Build a “Smarter” DevOps Roadmap — The SMART Maturity Assessment Method](https://adevait.com/devops/smart-maturity-assessment)
 * [Using Continuous Testing in DevOps Workflows](https://earthly.dev/blog/continuous-testing-in-devops/)
 
