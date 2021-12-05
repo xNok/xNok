@@ -36,6 +36,7 @@ I find the inspiration for most of my articles by working on one of my repositor
 ### The toolbox
 
 * [How to Reduce Waste and Increase Productivity in Software Development?](https://faun.pub/how-to-reduce-waste-and-increase-productivity-in-software-development-f333f363f150?sk=a22995ca49b6d109b64f7f41aa9fe32d) <a href="https://couedeloalexandre.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+* [How to Evaluate the Maturity of DevOps Practices in your Company?](https://faun.pub/how-to-evaluate-the-maturity-of-devops-practices-in-your-company-58a1ff7246a2?sk=1e0e2060cdb7d122ba5e35da59d50a5f) <a href="https://couedeloalexandre.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 
 ### Road Map to Choas Engineering
 
