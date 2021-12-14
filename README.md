@@ -80,6 +80,7 @@ I find the inspiration for most of my articles by working on one of my repositor
 * [What is CI/CD and how to apply it in your organization?](https://www.gologic.ca/en/what-is-ci-cd-and-how-to-apply-it-in-your-organization/)
 * [How to Build a “Smarter” DevOps Roadmap — The SMART Maturity Assessment Method](https://adevait.com/devops/smart-maturity-assessment)
 * [Using Continuous Testing in DevOps Workflows](https://earthly.dev/blog/continuous-testing-in-devops/)
+* [DORA Metrics: Best Trackers Comparison Guide [Sep 2021]](https://www.sleuth.io/post/dora-metrics)
 
 
 <!--
