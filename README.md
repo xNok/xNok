@@ -30,6 +30,10 @@ I find the inspiration for most of my articles by working on one of my repositor
 
 > Exploration of the fundamental concept of State Machine in Python
 
+* DIY Projects
+
+> Fun project to undertake mixing science, technolahy and engineering
+
 
 ## DEVOPS AND LEAN THINKING Toolbox
 
@@ -82,6 +86,9 @@ I find the inspiration for most of my articles by working on one of my repositor
 * [Using Continuous Testing in DevOps Workflows](https://earthly.dev/blog/continuous-testing-in-devops/)
 * [DORA Metrics: Best Trackers Comparison Guide [Sep 2021]](https://www.sleuth.io/post/dora-metrics)
 
+## DIY Projects
+
+* [Christmas Time! A Split Mechanical Keyboard, You Can Build Yourself! 🎅](https://couedeloalexandre.medium.com/christmas-time-get-a-keyboard-you-can-build-yourself-5ef27c87210c) <a href="https://couedeloalexandre.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 
 <!--
 **xNok/xNok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
