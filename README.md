@@ -89,6 +89,7 @@ I find the inspiration for most of my articles by working on side project (repre
 ## DIY Projects
 
 * [Christmas Time! A Split Mechanical Keyboard, You Can Build Yourself! 🎅](https://couedeloalexandre.medium.com/christmas-time-get-a-keyboard-you-can-build-yourself-5ef27c87210c) <a href="https://couedeloalexandre.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+* [How to Build a Custom Split Mechanical Keyboard: Bill of material](https://couedeloalexandre.medium.com/how-to-build-a-custom-split-mechanical-keyboard-bill-of-material-b2cf1ab62fef?sk=5d6ce97fc56fa4b6bd173096c3c9f23f) <a href="https://couedeloalexandre.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
 
 <!--
 **xNok/xNok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
