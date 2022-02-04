@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-I am freelance **Software Supply Chain and Automation Specialist (aka. DevOps)** I publish a lot of technical articles to share my knoledge and vue on the IT world
+I am a freelance **Software Supply Chain and Automation Specialist (aka. DevOps)**. I publish many technical articles to share my knowledge and view on the IT world.
 
-Most of my self-published article are available on either of these patforms:
+Most of my self-published articles are available on either of these platforms:
+
 <p>
 <a href="https://couedeloalexandre.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <a href="https://dev.to/xnok"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 </p>
 
-I find the inspiration for most of my articles by working on side project (represented by a git repositories). Here is a list of featured repositories and articles related:
+The articles you will find here are either contract jobs or self-published articles. Either way, I try to organize everything around some side projects. Here is a curated list of project and their related articles:
 
 * [DEVOPS AND LEAN THINKING Toolbox](https://github.com/xNok/devops-lean-6sigma-toolbox)
 
