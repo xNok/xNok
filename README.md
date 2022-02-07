@@ -46,10 +46,12 @@ The articles you will find here are either contract jobs or self-published artic
 ### Road Map to Choas Engineering
 
 * [Preparing for Major disruption](https://faun.pub/road-map-to-choas-engineering-preparing-for-major-disruption-e5dc01c73f2c?sk=6004dd563b542431e7528e11a3f45c3c) <a href="https://couedeloalexandre.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+* [Multi-Cloud is NOT the solution to the next AWS outage.](https://faun.pub/multi-cloud-is-not-the-solution-to-the-next-aws-outage-bb41c0b14573?sk=93023b48d622116e0c0248b2cd339de1) <a href="https://couedeloalexandre.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 
 ## The Math Behind Kubernetes
 
 * [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
+* [EKS Monitoring | Best Practices & Tools to Use](https://www.containiq.com/post/eks-monitoring)
 
 ## Python State Machine practice exercises
 
