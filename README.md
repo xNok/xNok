@@ -47,7 +47,7 @@ The articles you will find here are either contract jobs or self-published artic
 > Fun project to undertake mixing science, technolahy and engineering
 
 
-## DEVOPS AND LEAN THINKING Toolbox
+## 🧰 DEVOPS AND LEAN THINKING Toolbox
 
 ### The toolbox Lean+DevOps
 
@@ -67,17 +67,17 @@ The articles you will find here are either contract jobs or self-published artic
 * [Using Continuous Testing in DevOps Workflows](https://earthly.dev/blog/continuous-testing-in-devops/)
 * [DORA Metrics: Best Trackers Comparison Guide [Sep 2021]](https://www.sleuth.io/post/dora-metrics)
 
-## The Math Behind Kubernetes
+## 🧮 The Math Behind Kubernetes
 
 * [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
 * [EKS Monitoring | Best Practices & Tools to Use](https://www.containiq.com/post/eks-monitoring)
 
-## Python State Machine practice exercises
+## 🤖 Python State Machine practice exercises
 
 * [5 Tips to Customise Python Command-Line Interfaces](https://betterprogramming.pub/5-tips-to-customise-python-command-line-interfaces-691b0b39f610?sk=5ac5a76c740bd04f5881af8a485a68a0)
 * [No Code Argument Parsing for Command-Line Interfaces](https://medium.com/codex/no-code-argument-parsing-for-command-line-interfaces-79b17a3813f2?sk=680439c5fc3269c513d6010dd4d5ba8e)
 
-## Building Slack Bots in Golang using Socket Mode
+## 💬 Building Slack Bots in Golang using Socket Mode
  
 ### Main Series
 
@@ -93,12 +93,13 @@ The articles you will find here are either contract jobs or self-published artic
 * [Handler and Middleware design pattern in Golang](https://medium.com/codex/handler-and-middleware-design-pattern-in-golang-de23ec452fce?sk=0eed25a60858ad985ad22274505fb992) 
 * [Diagrams as code 3 must have tools](https://medium.com/geekculture/3-diagram-as-code-tools-that-combined-cover-all-your-needs-8f40f57d5cd8?sk=52fe49e20d7b3a37123d07b29b102696)
 * [Golang’s untyped constants might make your work easier. But there’s a catch](https://betterprogramming.pub/stop-mixing-constants-with-the-type-string-in-golang-d3589d8ae84d?sk=455a5bb28fc70eae0c3b40013c0526dd)
-## Themed SCRUM Retrospective
+
+## 🌱 Themed SCRUM Retrospective
 
 * [Foodies delight — Themed Scrum Retrospective](https://medium.com/agileinsider/foodies-delight-themed-scrum-retrospective-f40e0cffed1b?sk=81d18be55b6e7b8f9d1e1a1dbe1c8ab9) 
 * [Superheroes — Themed Scrum Retrospective](https://medium.com/agileinsider/superheros-themed-scrum-retrospective-ea988b4d14e1?sk=f868b8e58f94207b8bb1e1bad8bef40a) 
 
-## DIY Projects
+## ✨ DIY Projects
 
 * [Christmas Time! A Split Mechanical Keyboard, You Can Build Yourself! 🎅](https://couedeloalexandre.medium.com/christmas-time-get-a-keyboard-you-can-build-yourself-5ef27c87210c)
 * [How to Build a Custom Split Mechanical Keyboard: Bill of material](https://couedeloalexandre.medium.com/how-to-build-a-custom-split-mechanical-keyboard-bill-of-material-b2cf1ab62fef?sk=5d6ce97fc56fa4b6bd173096c3c9f23f)
