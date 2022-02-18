@@ -103,3 +103,22 @@ The articles you will find here are either contract jobs or self-published artic
 
 * [Christmas Time! A Split Mechanical Keyboard, You Can Build Yourself! 🎅](https://couedeloalexandre.medium.com/christmas-time-get-a-keyboard-you-can-build-yourself-5ef27c87210c)
 * [How to Build a Custom Split Mechanical Keyboard: Bill of material](https://couedeloalexandre.medium.com/how-to-build-a-custom-split-mechanical-keyboard-bill-of-material-b2cf1ab62fef?sk=5d6ce97fc56fa4b6bd173096c3c9f23f)
+
+---
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/xNok/xNok">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xNok&theme=cobalt&hide=java,html,css,JavaScript&langs_count=3" />
+</a>
+<a href="https://github.com/xNok/xNok">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xNok&show_icons=true&line_height=27&count_private=true&theme=cobalt" alt="xNok's GitHub Stats" />
+</a>
+
+<a href="https://github.com/xNok/infra-bootstrap-tools">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xNok&repo=infra-bootstrap-tools&theme=cobalt" />
+</a>
+
+<a href="https://github.com/xNok/slack-go-demo-socketmode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xNok&repo=slack-go-demo-socketmode&theme=cobalt" />
+</a>
