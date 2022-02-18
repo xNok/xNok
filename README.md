@@ -17,19 +17,28 @@ The articles you will find here are either contract jobs or self-published artic
 
 > Over the years, Lean and Six Sigmas practitioners have built an impressive library of toolboxes (A3, Value Stream Mapping, 5S, Kanban, and so on). I believe that a lot of those toolboxes could be repurposed to serve the DevOps culture and methodologies. This is my attempt.
 
-* [Slack Bots in Golang using Socket Mode](https://github.com/xNok/slack-go-demo-socketmode) [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
+* [Slack Bots in Golang using Socket Mode](https://github.com/xNok/slack-go-demo-socketmode) 
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 > My take on creating Slack Bots in Golang
 
 * [The Math Behind Kubernetes](https://github.com/xNok/The-math-behind-kubernetes)
 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 > Kubernetes Operation and Management raises many interesting mathematical problems very similar to those I studies in Industrial Engineering. The repo is an opportunity to look at Kubernetes from another angle.
 
 * [Startup infra for a small self-hosted project](https://github.com/xNok/infra-bootstrap-tools)
 
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+
 > Tutorial and automation script to get started with DevOps best practices
 
-* [Python State Machine practice exercises](https://github.com/xNok/pystatemachine) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+* [Python State Machine practice exercises](https://github.com/xNok/pystatemachine) 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 > Exploration of the fundamental concept of State Machine in Python
 
@@ -51,7 +60,7 @@ The articles you will find here are either contract jobs or self-published artic
 * [Preparing for Major disruption](https://faun.pub/road-map-to-choas-engineering-preparing-for-major-disruption-e5dc01c73f2c?sk=6004dd563b542431e7528e11a3f45c3c)
 * [Multi-Cloud is NOT the solution to the next AWS outage.](https://faun.pub/multi-cloud-is-not-the-solution-to-the-next-aws-outage-bb41c0b14573?sk=93023b48d622116e0c0248b2cd339de1) 
 
-## All About DevOps
+### All About DevOps
 
 * [Continuous integration vs continuous delivery vs continuous deployment](https://www.gologic.ca/en/continuous-integration-vs-continuous-delivery-vs-continuous-deployment/)
 * [What is CI/CD and how to apply it in your organization?](https://www.gologic.ca/en/what-is-ci-cd-and-how-to-apply-it-in-your-organization/)
