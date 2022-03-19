@@ -77,6 +77,7 @@ The articles you will find here are either contract jobs or self-published artic
 
 * [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
 * [EKS Monitoring | Best Practices & Tools to Use](https://www.containiq.com/post/eks-monitoring)
+* [5 Key Elements for a Great Developer Experience with Kubernetes](https://loft.sh/blog/5-key-elements-for-a-great-developer-experience-with-kubernetes/)
 
 ## 🤖 Python State Machine practice exercises
 
