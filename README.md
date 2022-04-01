@@ -42,7 +42,7 @@ The articles you will find here are either contract jobs or self-published artic
 
 > Exploration of the fundamental concept of State Machine in Python
 
-* DIY Projects
+* [DIY Projects](https://github.com/xNok/diy-split-mechanical-keyboard)
 
 > Fun project to undertake mixing science, technolahy and engineering
 
