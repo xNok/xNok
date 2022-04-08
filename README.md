@@ -9,6 +9,8 @@ Most of my self-published articles are available on either of these platforms:
 <a href="https://dev.to/xnok"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 </p>
 
+If you see anything of interest to you, follow me on <a href="https://twitter.com/Acouedelo"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Acouedelo?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>. I regularly share key insights about the articles I am writing.
+
 ---
 
 The articles you will find here are either contract jobs or self-published articles. Either way, I try to organize everything around some side projects. Here is a curated list of project and their related articles:
