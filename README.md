@@ -115,6 +115,8 @@ The articles you will find here are either contract jobs or self-published artic
 
 ## &#x1f4c8; GitHub Stats
 
+![Visitor Count](https://profile-counter.glitch.me/xNok/count.svg)
+
 <a href="https://github.com/xNok/xNok">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xNok&theme=cobalt&hide=java,html,css,JavaScript&langs_count=3" />
 </a>
