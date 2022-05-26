@@ -106,6 +106,7 @@ The articles you will find here are either contract jobs or self-published artic
 * [Handler and Middleware design pattern in Golang](https://medium.com/codex/handler-and-middleware-design-pattern-in-golang-de23ec452fce?sk=0eed25a60858ad985ad22274505fb992) 
 * [Diagrams as code 3 must have tools](https://medium.com/geekculture/3-diagram-as-code-tools-that-combined-cover-all-your-needs-8f40f57d5cd8?sk=52fe49e20d7b3a37123d07b29b102696)
 * [Golang’s untyped constants might make your work easier. But there’s a catch](https://betterprogramming.pub/stop-mixing-constants-with-the-type-string-in-golang-d3589d8ae84d?sk=455a5bb28fc70eae0c3b40013c0526dd)
+* [Using gRPC with Golang](https://speedscale.com/2022/05/03/using-grpc-with-golang/)
 
 ## 🌱 Themed SCRUM Retrospective
 
