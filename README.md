@@ -68,6 +68,7 @@ The articles you will find here are either contract jobs or self-published artic
 * [What is CI/CD and how to apply it in your organization?](https://www.gologic.ca/en/what-is-ci-cd-and-how-to-apply-it-in-your-organization/)
 * [Using Continuous Testing in DevOps Workflows](https://earthly.dev/blog/continuous-testing-in-devops/)
 * [DORA Metrics: Best Trackers Comparison Guide [Sep 2021]](https://www.sleuth.io/post/dora-metrics)
+* [DevOps vs DataOps: Taking lessons from the dev world into the modern data era](https://blog.getcensus.com/devops-vs-dataops-taking-lessons-from-the-dev-world-into-the-modern-data-era/)
 
 ## 📚🧰 Startup infra for a small self-hosted project
 
