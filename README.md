@@ -121,6 +121,10 @@ The articles you will find here are either contract jobs or self-published artic
 
 ---
 
+Do you want to stay up to date with my latest 👏, Follow on [Twitter](https://twitter.com/ACouedelo), Signup for [Medium](https://couedeloalexandre.medium.com/subscribe).
+
+---
+
 ## &#x1f4c8; GitHub Stats
 
 ![Visitor Count](https://profile-counter.glitch.me/xNok/count.svg)
