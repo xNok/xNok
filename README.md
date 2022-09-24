@@ -2,52 +2,7 @@
 
 I am a freelance **Software Supply Chain and Automation Specialist (aka. DevOps)**. I publish many technical articles to share my knowledge and view on the IT world.
 
-Most of my self-published articles are available on either of these platforms:
-
-<p>
-<a href="https://couedeloalexandre.medium.com/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
-<a href="https://dev.to/xnok"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-</p>
-
-If you see anything of interest to you, follow me on <a href="https://twitter.com/Acouedelo"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Acouedelo?label=Twitter&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>. I regularly share key insights about the articles I am writing.
-
----
-
-The articles you will find here are either contract jobs or self-published articles. Either way, I try to organize everything around some side projects. Here is a curated list of project and their related articles:
-
-* [DEVOPS AND LEAN THINKING Toolbox](https://github.com/xNok/devops-lean-6sigma-toolbox)
-
-> Over the years, Lean and Six Sigmas practitioners have built an impressive library of toolboxes (A3, Value Stream Mapping, 5S, Kanban, and so on). I believe that a lot of those toolboxes could be repurposed to serve the DevOps culture and methodologies. This is my attempt.
-
-* [Slack Bots in Golang using Socket Mode](https://github.com/xNok/slack-go-demo-socketmode) 
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-> My take on creating Slack Bots in Golang
-
-* [The Math Behind Kubernetes](https://github.com/xNok/The-math-behind-kubernetes)
-
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-> Kubernetes Operation and Management raises many interesting mathematical problems very similar to those I studies in Industrial Engineering. The repo is an opportunity to look at Kubernetes from another angle.
-
-* [Startup infra for a small self-hosted project](https://github.com/xNok/infra-bootstrap-tools)
-
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-
-> Tutorial and automation script to get started with DevOps best practices
-
-* [Python State Machine practice exercises](https://github.com/xNok/pystatemachine) 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-
-> Exploration of the fundamental concept of State Machine in Python
-
-* [DIY Projects](https://github.com/xNok/diy-split-mechanical-keyboard)
-
-> Fun project to undertake mixing science, technolahy and engineering
-
+In my Github profile I keep a complet list of all the articles I have written. So please have a look :smile:
 
 ## 🧰 DEVOPS AND LEAN THINKING Toolbox
 
@@ -56,6 +11,7 @@ The articles you will find here are either contract jobs or self-published artic
 * [How to Reduce Waste and Increase Productivity in Software Development?](https://faun.pub/how-to-reduce-waste-and-increase-productivity-in-software-development-f333f363f150?sk=a22995ca49b6d109b64f7f41aa9fe32d)
 * [How to Evaluate the Maturity of DevOps Practices in your Company?](https://faun.pub/how-to-evaluate-the-maturity-of-devops-practices-in-your-company-58a1ff7246a2?sk=1e0e2060cdb7d122ba5e35da59d50a5f)
 * [How to Build a “Smarter” DevOps Roadmap — The SMART Maturity Assessment Method](https://adevait.com/devops/smart-maturity-assessment)
+* [What is Developer Experience?](https://draft.dev/learn/what-is-developer-experience)
 
 ### Road Map to Choas Engineering
 
@@ -131,7 +87,44 @@ The articles you will find here are either contract jobs or self-published artic
 
 ---
 
-Do you want to stay up to date with my latest 👏, Follow on [Twitter](https://twitter.com/ACouedelo), Signup for [Medium](https://couedeloalexandre.medium.com/subscribe).
+To stay up to date with my latest article Follow on [Twitter](https://twitter.com/ACouedelo), [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alexandre-couedelo) or Signup for [Medium](https://couedeloalexandre.medium.com/subscribe).
+
+---
+
+The articles you will find here are either contract jobs or self-published articles. Either way, I try to organize everything around some side projects. Here is a curated list of project and their related articles:
+
+* [DEVOPS AND LEAN THINKING Toolbox](https://github.com/xNok/devops-lean-6sigma-toolbox)
+
+> Over the years, Lean and Six Sigmas practitioners have built an impressive library of toolboxes (A3, Value Stream Mapping, 5S, Kanban, and so on). I believe that a lot of those toolboxes could be repurposed to serve the DevOps culture and methodologies. This is my attempt.
+
+* [Slack Bots in Golang using Socket Mode](https://github.com/xNok/slack-go-demo-socketmode) 
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+> My take on creating Slack Bots in Golang
+
+* [The Math Behind Kubernetes](https://github.com/xNok/The-math-behind-kubernetes)
+
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+> Kubernetes Operation and Management raises many interesting mathematical problems very similar to those I studies in Industrial Engineering. The repo is an opportunity to look at Kubernetes from another angle.
+
+* [Startup infra for a small self-hosted project](https://github.com/xNok/infra-bootstrap-tools)
+
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+
+> Tutorial and automation script to get started with DevOps best practices
+
+* [Python State Machine practice exercises](https://github.com/xNok/pystatemachine) 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+> Exploration of the fundamental concept of State Machine in Python
+
+* [DIY Projects](https://github.com/xNok/diy-split-mechanical-keyboard)
+
+> Fun project to undertake mixing science, technolahy and engineering
 
 ---
 
