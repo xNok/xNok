@@ -84,6 +84,7 @@ In my Github profile I keep a complet list of all the articles I have written. S
 
 * [Christmas Time! A Split Mechanical Keyboard, You Can Build Yourself! 🎅](https://couedeloalexandre.medium.com/christmas-time-get-a-keyboard-you-can-build-yourself-5ef27c87210c)
 * [How to Build a Custom Split Mechanical Keyboard: Bill of material](https://couedeloalexandre.medium.com/how-to-build-a-custom-split-mechanical-keyboard-bill-of-material-b2cf1ab62fef?sk=5d6ce97fc56fa4b6bd173096c3c9f23f)
+* [Why You Should Build Your Own Mechanical Keyboard?](https://couedeloalexandre.medium.com/why-you-should-build-your-own-mechanical-keyboard-47445e3b2d37?sk=844b39828f2d15d911b82c8de4806ca4)
 
 ---
 
