@@ -69,7 +69,7 @@ In my Github profile I keep a complet list of all the articles I have written. S
 
 ### Other topics
 
-* [Manage Static Assets in Golang](https://couedeloalexandre.medium.com/manage-static-assets-with-embed-golang-1-16-75c89c3eea39?sk=d903d7b0532aff64243ef419346f804b)
+* [Manage Static Assets in Golang](https://alexandre-couedelo.medium.com/manage-static-assets-with-embed-golang-1-16-75c89c3eea39?sk=d903d7b0532aff64243ef419346f804b)
 * [Handler and Middleware design pattern in Golang](https://medium.com/codex/handler-and-middleware-design-pattern-in-golang-de23ec452fce?sk=0eed25a60858ad985ad22274505fb992) 
 * [Diagrams as code 3 must have tools](https://medium.com/geekculture/3-diagram-as-code-tools-that-combined-cover-all-your-needs-8f40f57d5cd8?sk=52fe49e20d7b3a37123d07b29b102696)
 * [Golang’s untyped constants might make your work easier. But there’s a catch](https://betterprogramming.pub/stop-mixing-constants-with-the-type-string-in-golang-d3589d8ae84d?sk=455a5bb28fc70eae0c3b40013c0526dd)
@@ -82,13 +82,13 @@ In my Github profile I keep a complet list of all the articles I have written. S
 
 ## ✨ DIY Projects
 
-* [Christmas Time! A Split Mechanical Keyboard, You Can Build Yourself! 🎅](https://couedeloalexandre.medium.com/christmas-time-get-a-keyboard-you-can-build-yourself-5ef27c87210c)
-* [How to Build a Custom Split Mechanical Keyboard: Bill of material](https://couedeloalexandre.medium.com/how-to-build-a-custom-split-mechanical-keyboard-bill-of-material-b2cf1ab62fef?sk=5d6ce97fc56fa4b6bd173096c3c9f23f)
-* [Why You Should Build Your Own Mechanical Keyboard?](https://couedeloalexandre.medium.com/why-you-should-build-your-own-mechanical-keyboard-47445e3b2d37?sk=844b39828f2d15d911b82c8de4806ca4)
+* [Christmas Time! A Split Mechanical Keyboard, You Can Build Yourself! 🎅](https://alexandre-couedelo.medium.com/christmas-time-get-a-keyboard-you-can-build-yourself-5ef27c87210c)
+* [How to Build a Custom Split Mechanical Keyboard: Bill of material](https://alexandre-couedelo.medium.com/how-to-build-a-custom-split-mechanical-keyboard-bill-of-material-b2cf1ab62fef?sk=5d6ce97fc56fa4b6bd173096c3c9f23f)
+* [Why You Should Build Your Own Mechanical Keyboard?](https://alexandre-couedelo.medium.com/why-you-should-build-your-own-mechanical-keyboard-47445e3b2d37?sk=844b39828f2d15d911b82c8de4806ca4)
 
 ---
 
-To stay up to date with my latest article Follow on [Twitter](https://twitter.com/ACouedelo), [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alexandre-couedelo) or Signup for [Medium](https://couedeloalexandre.medium.com/subscribe).
+To stay up to date with my latest article Follow on [Twitter](https://twitter.com/ACouedelo), [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alexandre-couedelo) or Signup for [Medium](https://alexandre-couedelo.medium.com/membership).
 
 ---
 
