@@ -12,6 +12,7 @@ In my Github profile I keep a complet list of all the articles I have written. S
 * [How to Evaluate the Maturity of DevOps Practices in your Company?](https://faun.pub/how-to-evaluate-the-maturity-of-devops-practices-in-your-company-58a1ff7246a2?sk=1e0e2060cdb7d122ba5e35da59d50a5f)
 * [How to Build a “Smarter” DevOps Roadmap — The SMART Maturity Assessment Method](https://adevait.com/devops/smart-maturity-assessment)
 * [What is Developer Experience?](https://draft.dev/learn/what-is-developer-experience)
+* [How to Maximise the Value of your Software Development Process?](https://faun.pub/how-to-maximise-the-value-of-your-software-development-process-91a7667896c9?sk=2c0748bd1c1465e96475d05f794347c3)
 
 ### Road Map to Choas Engineering
 
