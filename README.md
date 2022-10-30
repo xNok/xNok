@@ -26,6 +26,7 @@ In my Github profile I keep a complet list of all the articles I have written. S
 * [Using Continuous Testing in DevOps Workflows](https://earthly.dev/blog/continuous-testing-in-devops/)
 * [DORA Metrics: Best Trackers Comparison Guide [Sep 2021]](https://www.sleuth.io/post/dora-metrics)
 * [DevOps vs DataOps: Taking lessons from the dev world into the modern data era](https://blog.getcensus.com/devops-vs-dataops-taking-lessons-from-the-dev-world-into-the-modern-data-era/)
+* [Static Threshold vs. Dynamic Threshold Alerting](https://last9.io/blog/static-threshold-vs-dynamic-threshold-alerting/)
 
 ## 📚🧰 Startup infra for a small self-hosted project
 
