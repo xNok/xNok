@@ -4,7 +4,7 @@ I am a freelance **Software Supply Chain and Automation Specialist (aka. DevOps)
 
 In my Github profile I keep a complet list of all the articles I have written. So please have a look :smile:
 
-⭐ To stay up to date with my latest article Follow on [Twitter](https://twitter.com/ACouedelo), [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alexandre-couedelo) or Signup for [Medium](https://alexandre-couedelo.medium.com/membership).
+⭐ To stay up to date with my latest article Follow on [Twitter](https://twitter.com/AlexCouedelo), [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alexandre-couedelo) or Signup for [Medium](https://alexandre-couedelo.medium.com/membership).
 
 
 ## 🧰 DEVOPS AND LEAN THINKING Toolbox
