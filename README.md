@@ -52,6 +52,7 @@ In my Github profile I keep a complet list of all the articles I have written. S
 * [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
 * [EKS Monitoring | Best Practices & Tools to Use](https://www.containiq.com/post/eks-monitoring)
 * [5 Key Elements for a Great Developer Experience with Kubernetes](https://loft.sh/blog/5-key-elements-for-a-great-developer-experience-with-kubernetes/)
+* [8 Considerations for Choosing the Right Kubernetes Platform](https://www.stakater.com/post/8-considerations-for-choosing-the-right-kubernetes-platform)
 
 ## 🤖 Python State Machine practice exercises
 
