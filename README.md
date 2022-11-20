@@ -135,6 +135,8 @@ The articles you will find here are either contract jobs or self-published artic
 
 ![Visitor Count](https://profile-counter.glitch.me/xNok/count.svg)
 
+
+
 <a href="https://github.com/xNok/xNok">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xNok&theme=cobalt&hide=java,html,css,JavaScript&langs_count=3" />
 </a>
@@ -149,3 +151,5 @@ The articles you will find here are either contract jobs or self-published artic
 <a href="https://github.com/xNok/slack-go-demo-socketmode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xNok&repo=slack-go-demo-socketmode&theme=cobalt" />
 </a>
+
+<a href="https://app.daily.dev/xNok"><img src="https://api.daily.dev/devcards/607eb052e61d4f3abeb94a3c9410b019.png?r=qss" width="400" alt="Alexandre Couedelo's Dev Card"/></a>
