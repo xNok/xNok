@@ -80,6 +80,7 @@ In my Github profile I keep a complet list of all the articles I have written. S
 * [Diagrams as code 3 must have tools](https://medium.com/geekculture/3-diagram-as-code-tools-that-combined-cover-all-your-needs-8f40f57d5cd8?sk=52fe49e20d7b3a37123d07b29b102696)
 * [Golang’s untyped constants might make your work easier. But there’s a catch](https://betterprogramming.pub/stop-mixing-constants-with-the-type-string-in-golang-d3589d8ae84d?sk=455a5bb28fc70eae0c3b40013c0526dd)
 * [Using gRPC with Golang](https://speedscale.com/2022/05/03/using-grpc-with-golang/)
+* [Comprehensive Guide to Testing in Go](https://blog.jetbrains.com/go/2022/11/22/comprehensive-guide-to-testing-in-go/)
 
 ## 🌱 Themed SCRUM Retrospective
 
