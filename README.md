@@ -50,6 +50,11 @@ In my Github profile I keep a complet list of all the articles I have written. S
 * [Design and Test Ansible playbook with Vagrant](https://faun.pub/a-disposable-local-test-environment-is-essential-for-devops-sysadmin-af97fa8f3db0?sk=f2f0e3a6b4fe4215cec13019887b6302)
 * [Experimenting on Docker Swarm with Vagrant and Ansible](https://faun.pub/experimenting-on-docker-swarm-with-vagrant-and-ansible-bcc2c79ba7c4?sk=1eac227cf3c9ec5dc5abbf06f38e92c3)
 
+### Architecture and Diagrams
+
+* [3 Diagrams as Code Tools That Combined Cover All Your Needs](https://medium.com/geekculture/3-diagram-as-code-tools-that-combined-cover-all-your-needs-8f40f57d5cd8?sk=52fe49e20d7b3a37123d07b29b102696)
+* [Create All Your Diagrams with the Power of Code](https://betterprogramming.pub/how-to-create-all-your-diagrams-with-the-power-of-code-f09518125702?sk=59e395c58de05f8f73c72c6f505e2ca2)
+
 ## 🧮 The Math Behind Kubernetes
 
 * [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
@@ -135,22 +140,5 @@ The articles you will find here are either contract jobs or self-published artic
 ## &#x1f4c8; GitHub Stats
 
 ![Visitor Count](https://profile-counter.glitch.me/xNok/count.svg)
-
-
-
-<a href="https://github.com/xNok/xNok">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xNok&theme=cobalt&hide=java,html,css,JavaScript&langs_count=3" />
-</a>
-<a href="https://github.com/xNok/xNok">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xNok&show_icons=true&line_height=27&count_private=true&theme=cobalt" alt="xNok's GitHub Stats" />
-</a>
-
-<a href="https://github.com/xNok/infra-bootstrap-tools">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xNok&repo=infra-bootstrap-tools&theme=cobalt" />
-</a>
-
-<a href="https://github.com/xNok/slack-go-demo-socketmode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xNok&repo=slack-go-demo-socketmode&theme=cobalt" />
-</a>
 
 <a href="https://app.daily.dev/xNok"><img src="https://api.daily.dev/devcards/607eb052e61d4f3abeb94a3c9410b019.png?r=qss" width="400" alt="Alexandre Couedelo's Dev Card"/></a>
