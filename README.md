@@ -54,6 +54,7 @@ In my Github profile I keep a complet list of all the articles I have written. S
 
 * [3 Diagrams as Code Tools That Combined Cover All Your Needs](https://medium.com/geekculture/3-diagram-as-code-tools-that-combined-cover-all-your-needs-8f40f57d5cd8?sk=52fe49e20d7b3a37123d07b29b102696)
 * [Create All Your Diagrams with the Power of Code](https://betterprogramming.pub/how-to-create-all-your-diagrams-with-the-power-of-code-f09518125702?sk=59e395c58de05f8f73c72c6f505e2ca2)
+* [Best Visuals for Technical Content and Why They Work](https://betterprogramming.pub/best-visuals-for-technical-content-and-why-they-work-a69b4a1362a9?sk=31655ef4ec1b341c83b55ccbd29df00f)
 
 ## 🧮 The Math Behind Kubernetes
 
