@@ -1,0 +1,5 @@
+tasks:
+  - name: Dependencies & Database
+    init: |
+      brew install hugo
+    command: hugo server --source=nokwebspace
