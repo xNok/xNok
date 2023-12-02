@@ -9,6 +9,12 @@ In my Github profile I keep a complet list of all the articles I have written. S
 
 ## 🧰 DEVOPS AND LEAN THINKING Toolbox
 
+### Developer Experience (DevXp)
+
+* [Evaluating Backstage: How Backstage Works](https://www.kosli.com/blog/evaluating-backstage-how-backstage-works/)
+* [Succeeding with Backstage: Improving Adoption](https://www.kosli.com/blog/succeeding-with-backstage-3-improving-adoption/)
+* [Succeeding with Backstage: Backstage as Part of a Broader Developer Productivity Engineering (DPE) Initiative](https://www.kosli.com/blog/succeeding-with-backstage-4-backstage-as-part-of-a-broader-developer-productivity-engineering-dpe-initiative/)
+
 ### The toolbox Lean+DevOps
 
 * [How to Reduce Waste and Increase Productivity in Software Development?](https://faun.pub/how-to-reduce-waste-and-increase-productivity-in-software-development-f333f363f150?sk=a22995ca49b6d109b64f7f41aa9fe32d)
