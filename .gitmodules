@@ -1,0 +1,3 @@
+[submodule "website/themes/editor"]
+	path = website/themes/thomson
+	url = git@github.com:mekitmedia/gethugothemes-editor.git
