@@ -1,14 +1,14 @@
 ---
 title: "About Me"
 date: 2020-09-24T11:07:10+06:00
-description: "this is meta description"
+description: "Rencontrez Alexandre Couedelo, un rédacteur technique et spécialiste DevOps passionné par la création de blogs d'ingénierie. Découvrez des informations sur DevOps, Kubernetes, la sécurité et SRE d'un professionnel expérimenté dédié au partage de connaissances et d'expertise."
 draft: false
 layout: "about"
 
-name: "Matthew Atkins"
-email: "sojonatmail@gmail.com"
-image: "images/author.png"
-summary: "Un rédacteur pour vos assistants thématiques préférés, actuellement responsable du contenu chez Editor."
+name: "Alexandre Couedelo"
+email: "a.couedelo@mekitmedia.com"
+image: "images/author.jpg"
+summary: "Rédacteur && DevOps ~Créateur de blog en ingénierie ~ DevOps, Kubernetes, Security, SRE"
 
 partners:
   enable: true

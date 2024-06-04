@@ -95,8 +95,8 @@ logo = "images/logo.svg"
 logo_height = "26px"
 logo_rotate = true
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "My Personal Portfolio"
+author = "Alexandre Couedelo"
 # contact info
 address = "9567 Turner Trace Apt. BC C3G8A4"
 mobile = "+211234565523"
@@ -165,24 +165,19 @@ sidebar = ["about-me", "recent-post", "categories", "tags"]
 
 ############################# social site ########################
 [[params.social]]
-title = "Facebook"
-icon = "fab fa-facebook" # Fhemify icon : https://themify.me/themify-icons
-link = "https://facebook.com"
-
-[[params.social]]
 title = "Twitter"
 icon = "fab fa-twitter" # Fhemify icon : https://themify.me/themify-icons
-link = "https://twitter.com"
-
-[[params.social]]
-title = "Instagram"
-icon = "fab fa-instagram" # Fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://instagram.com"
+link = "https://x.com/AlexCouedelo"
 
 [[params.social]]
 title = "Github"
 icon = "fab fa-github" # Fontawesome icon pack : https://fontawesome.com/icons/
-link = "https://github.com"
+link = "https://github.com/xnok"
+
+[[params.social]]
+title = "Medium"
+icon = "fab fa-medium" # Fontawesome icon pack : https://fontawesome.com/icons/
+link = "https://medium.com/@alexandre-couedelo"
 
 
 ################################### English language #####################################
