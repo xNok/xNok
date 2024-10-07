@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://demo.gethugothemes.com/editor/site/"
-title = "Editor - Personal Blog Hugo Theme"
+title = "Alexandre Couedelo - Personal Blog"
 theme = "editor-hugo"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
 timeZone = "America/New_York"
@@ -10,8 +10,6 @@ paginate = 6 # see https://gohugo.io/extras/pagination/
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # google analytics
 googleAnalytics = "UA-123456-78" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
-# disqus short name
-disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 # disable language
 disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
@@ -90,7 +88,7 @@ link = "plugins/search/search.js"
 #################### default parameters ################################
 [params]
 favicon = "images/logo-sm.svg"
-logo_text = "Editor"
+logo_text = "AC."
 logo = "images/logo.svg"
 logo_height = "26px"
 logo_rotate = true
@@ -98,9 +96,9 @@ logo_rotate = true
 description = "My Personal Portfolio"
 author = "Alexandre Couedelo"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "hello@editor.com"
+# address = "9567 Turner Trace Apt. BC C3G8A4"
+# mobile = "+211234565523"
+# email = "hello@editor.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Search
@@ -149,8 +147,8 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.subscription]
 enable = true
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
+kit_form_url = "https://fierce-innovator-1523.ck.page/f5923b948c/index.js"
+kit_data_id = "f5923b948c"
 
 # cookies
 [params.cookies]
@@ -203,51 +201,37 @@ url = "about/"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Blogs"
+name = "Blog"
 url = "blogs/"
 weight = 3
 
 [[Languages.en.menu.main]]
 weight = 4
-name = "Pages"
+name = "Categories"
 hasChildren = true
   
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Categories"
   weight = 1
-  url = "tags/artwork/"
-  name = "Tag"
+  url = "categories/devops/"
+  name = "DevOps"
   
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Categories"
   weight = 2
-  url = "categories/lifestyle/"
-  name = "Category"
-  
+  url = "categories/kubernetes/"
+  name = "Kubernetes"
+
   [[Languages.en.menu.main]]
-  parent = "Pages"
+  parent = "Categories"
   weight = 3
-  url = "elements/"
-  name = "Elements"
-  
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  weight = 4
-  url = "terms/"
-  name = "Terms & Conditions"
-  
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  weight = 5
-  url = "privacy/"
-  name = "Privacy"
+  url = "categories/security/"
+  name = "Security"
   
 [[Languages.en.menu.main]]
 name = "Contact"
 url = "contact/"
 weight = 5
-
-
 
 ################################### French language #####################################
 [Languages.fr]
@@ -262,56 +246,44 @@ copyright = "Droits d'auteur &copy;2021 <br> Conçu et Développé par [Gethugot
 ############# French navigation ##############
 # main menu
 [[Languages.fr.menu.main]]
-name = "Maison"
+name = "Accueil"
 url = ""
 weight = 1
 
 [[Languages.fr.menu.main]]
-name = "Quelque"
+name = "Info"
 url = "about/"
 weight = 2
 
 [[Languages.fr.menu.main]]
-name = "Les Blogs"
+name = "Blog"
 url = "blogs/"
 weight = 3
 
 [[Languages.fr.menu.main]]
 weight = 4
-name = "Pages"
+name = "Categories"
 hasChildren = true
   
   [[Languages.fr.menu.main]]
-  parent = "Pages"
+  parent = "Categories"
   weight = 1
-  url = "tags/artwork/"
-  name = "Mots clés"
+  url = "categories/devops/"
+  name = "DevOps"
   
   [[Languages.fr.menu.main]]
-  parent = "Pages"
+  parent = "Categories"
   weight = 2
-  url = "categories/lifestyle/"
-  name = "Catégorie"
-  
+  url = "categories/kubernetes/"
+  name = "Kubernetes"
+
   [[Languages.fr.menu.main]]
-  parent = "Pages"
+  parent = "Categories"
   weight = 3
-  url = "elements/"
-  name = "Éléments"
-  
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  weight = 4
-  url = "terms/"
-  name = "Termes et Conditions"
-  
-  [[Languages.fr.menu.main]]
-  parent = "Pages"
-  weight = 5
-  url = "privacy/"
-  name = "Vie privée"
+  url = "categories/security/"
+  name = "Security"
   
 [[Languages.fr.menu.main]]
-name = "Contacter"
+name = "Contact"
 url = "contact/"
 weight = 5

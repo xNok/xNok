@@ -4,7 +4,7 @@ images:
   - "images/post/01.jpg"
 date: 2021-01-24T18:19:25+06:00
 tags: ["Retro", "Radio"]
-categories: ["LifeStyle"]
+categories: ["devops"]
 draft: false
 ---
 
