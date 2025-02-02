@@ -32,7 +32,7 @@ jobs:
       KROKI_VERSION: 0.5.0
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: recursive
           # ssh-keygen -t ed25519 -C "git@github.com:mekitmedia/gethugothemes-editor.git"
