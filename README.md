@@ -1,11 +1,10 @@
 # Hi there! 👋
 
-I am a freelance **Software Supply Chain and Automation Specialist (aka. DevOps)**. I publish many technical articles to share my knowledge and view on the IT world.
+I am a passionate **Software Supply Chain and Automation Specialist (aka. DevOps)**. I publish many technical articles to share my knowledge and view on the IT world.
 
-In my Github profile I keep a complet list of all the articles I have written. So please have a look :smile:
+In my Github profile, I keep a somewhat complete list of all the articles I have written. So please have a look :smile:
 
-⭐ To stay up to date with my latest article Follow on [Twitter](https://twitter.com/AlexCouedelo), [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alexandre-couedelo) or Signup for [Medium](https://alexandre-couedelo.medium.com/membership).
-
+⭐ To stay up to date with my latest article, Follow me on [Twitter](https://twitter.com/AlexCouedelo), [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alexandre-couedelo) or Signup for [Medium](https://alexandre-couedelo.medium.com/membership).
 
 ## 🧰 DEVOPS AND LEAN THINKING Toolbox
 
@@ -14,6 +13,20 @@ In my Github profile I keep a complet list of all the articles I have written. S
 * [Evaluating Backstage: How Backstage Works](https://www.kosli.com/blog/evaluating-backstage-how-backstage-works/)
 * [Succeeding with Backstage: Improving Adoption](https://www.kosli.com/blog/succeeding-with-backstage-3-improving-adoption/)
 * [Succeeding with Backstage: Backstage as Part of a Broader Developer Productivity Engineering (DPE) Initiative](https://www.kosli.com/blog/succeeding-with-backstage-4-backstage-as-part-of-a-broader-developer-productivity-engineering-dpe-initiative/)
+
+### Platform Engineering
+
+* [Top 7 Platform Engineering Tools](https://earthly.dev/blog/platform-engineering-tools/)
+
+### DevSecOps
+
+* [DevSecOps & CI/CD Pipelines: understand the fundamentals](https://www.gologic.ca/en/devsecops-ci-cd/)
+* [Version Control Security](https://www.gologic.ca/en/version-control-security/)
+* [Secure Continuous Integration (CI) Pipelines](https://www.gologic.ca/en/continuous-integration-security/)
+* [Secure Continuous Delivery (CD) Pipelines](https://www.gologic.ca/en/continuous-delivery-security/)
+* [Securely Managing Secrets in CI/CD Pipelines](https://www.gologic.ca/en/securely-managing-secrets-in-pipelines-ci-cd/)
+* [Securely Managing Artifacts in CI/CD Pipelines](https://www.gologic.ca/en/securely-managing-artifacts-pipelines-ci-cd/)
+* [CI/CD Pipeline Security: Strategies to Detect and Counter Cyber Threats](https://www.gologic.ca/en/ci-cd-pipeline-security-strategies-to-detect-and-counter-cyber-threats/)
 
 ### The toolbox Lean+DevOps
 
