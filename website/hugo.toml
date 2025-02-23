@@ -145,7 +145,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 kit_form_url = "https://fierce-innovator-1523.ck.page/f5923b948c/index.js"
 kit_data_id = "f5923b948c"
