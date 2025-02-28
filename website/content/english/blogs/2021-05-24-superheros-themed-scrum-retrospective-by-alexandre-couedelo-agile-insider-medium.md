@@ -1,16 +1,28 @@
 ---
 title: "Superheroes — Themed Scrum Retrospective"
 date: 2021-05-24
+draft: false
+categories: ["Agile"]
+tags: ["Scrum", "Retrospective", "Agile", "Superheroes"]
+images:
+- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/9ca3fb82-f459-4aa2-a610-9916dd26a583/1E7Pe9Y0ZIofZ6RW62ubFNw.png
+- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/cd6ebcfc-e4fc-40f6-af02-e9f486d59ffc/1qYg91P3XCczt2CulfEtrjg.jpeg
 ---
 
-[Original Article: Superheroes — Themed Scrum Retrospective | by Alexandre Couëdelo | Agile Insider | Medium](https://medium.com/agileinsider/superheros-themed-scrum-retrospective-ea988b4d14e1)
+> Original Complete Article : [Read on Medium](https://medium.com/agileinsider/superheros-themed-scrum-retrospective-ea988b4d14e1)
 
-In this article, **I** present a **superhero**-themed approach to spice up your Scrum retrospectives. This theme is designed to foster **creativity** and engagement within the team.
+## Summary
 
-The retrospective framework includes:
+This article introduces a creative approach to **Scrum retrospectives** by using a **superhero theme** to boost team engagement and creativity. I present a structured retrospective agenda that includes a **warm-up activity** where team members create their superhero personas, and the **FLAP (Future directions, Lessons learned, Accomplishments, Problem areas) method** to generate insights. The article uses **speech balloons** to capture key takeaways and actions. You will learn how to conduct a **themed retrospective** that will make your team's retrospective sessions more enjoyable and effective by thinking outside the box.
 
-*   A warmup activity: Team members introduce themselves as **superheroes**, highlighting their **strengths** and **weaknesses**.
-*   Gathering data using the **FLAP** method (**Future** directions, **Lessons** learned, **Accomplishments**, **Problem** areas), enhanced with superhero-themed memes and speech bubbles.
-*   Concluding with action items derived from speech bubble discussions.
+### Key Concepts
 
-By using a superhero theme, **you** can encourage teams to think more creatively and consider situations from different angles. The article provides practical tips, such as using superhero league membership cards and comic-style speech bubbles, to implement this approach effectively. **I** think you will have fun with this one, its always good to inject new ideas into your agile practices.
+*   **Themed Retrospectives**: This aproach will lead You to consider the situation differently, the mind likes to be tricked to unleash its creative power.
+*   **Superhero Warm-up**: Each team member introduces themselves as a Superhero, unveiling their role, strength, and weaknesses.
+*   **FLAP**: Use Future directions, Lessons learned, Accomplishments, Problem areas to  Explore the data
+*   **Speech balloons**: Use speech balloons to express the main takeaways and filter data.
+
+## References
+
+*   [FLAP Activity](https://www.funretrospectives.com/flap-activity-future-direction-lessons-learned-accomplishments-and-problem-areas/)
+*   [Superhero Quotes](https://www.inc.com/peter-economy/17-superhero-quotes-that-will-save-day-whether-youre-a-leader-or-not.html)
