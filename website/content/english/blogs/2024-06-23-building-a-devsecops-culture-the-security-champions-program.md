@@ -4,6 +4,8 @@ date: 2024-06-23
 draft: false
 ---
 
+> Original Complete Article : [Read on Medium](https://medium.com/itnext/building-a-devsecops-culture-the-security-champions-program-3d5c5afa6eba)
+
 ## Summary
 
 This article explores the **Security Champions Program**, a strategic initiative designed to foster collaboration between security, development, and operations teams within a **DevSecOps culture**. It discusses the roles and responsibilities of security champions, the criteria for selecting them, and the activities that promote a security-conscious environment. The program addresses the imbalance of security experts to developers in many companies by empowering individuals within development teams to act as **security advocates**. These champions are trained to identify vulnerabilities, promote secure coding practices, and serve as liaisons between the security team and developers, fostering continuous improvement and proactive defense. The article also highlights the importance of selecting individuals with relevant technical experience, leadership qualities, strong communication skills, and existing security interest to ensure the program's success.
