@@ -9,22 +9,11 @@ name: "Alexandre Couedelo"
 email: "a.couedelo@mekitmedia.com"
 image: "images/author.jpg"
 summary: "Tech Writer && DevOps ~ Build engineering blogs ~ DevOps, Kubernetes, Security, SRE"
-
 partners:
   enable: true
   title : "My Contents also published <br> on these websites"
   partner_logos:
-  - "images/partners/logo-1.png"
-  - "images/partners/logo-2.png"
-  - "images/partners/logo-3.png"
-  - "images/partners/logo-4.png"
-  - "images/partners/logo-5.png"
-  - "images/partners/logo-6.png"
-  - "images/partners/logo-7.png"
-  - "images/partners/logo-8.png"
-  - "images/partners/logo-9.png"
+  - "https://last9.io/_astro/logo.hetiPRKh_ZezTJ5.svg"
+
 ---
 
-Cume tale recusabo periculis tee. Deleniti perferendis necessitatibus reprehenderit ipsam explicabo. Modi temporibus nemo dolor laudantium aut possimus nostrum. Alias deserunt similique, eum quas molestias ducimus natus accusantium ratione.
-
-Eaque cum sed corporis, sequi cumque a iure alias perferendis necessitatibus deserunt similique! Quia eaque quo rerum non qui explicabo earum nobis numquam maiores uidem sequi cumque a iure.
