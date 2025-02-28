@@ -1,29 +1,68 @@
----
-title: "Building a DevSecOps Culture: The Security Champions Program"
-date: 2024-06-23
-draft: false
----
-
-## Summary
-This article explores the Security Champions Program, a strategic initiative designed to foster collaboration between security, development, and operations teams within a DevSecOps culture. It discusses the roles and responsibilities of security champions, the criteria for selecting them, and the activities that promote a security-conscious environment. The program addresses the imbalance of security experts to developers in many companies by empowering individuals within development teams to act as security advocates. These champions are trained to identify vulnerabilities, promote secure coding practices, and serve as liaisons between the security team and developers, fostering continuous improvement and proactive defense. The article highlights the importance of selecting individuals with relevant technical experience, leadership qualities, strong communication skills, and existing security interest to ensure the program's success.
-
-## Key Concepts
-
-*   **Security Champions Program:** A program run by the security team to improve the company’s security posture by selecting and training individuals within development teams to act as security advocates.
-*   **Responsibilities of Security Champions:** Training and coaching, staying up to date on best practices, cooperation between teams, and enhancing security by participating in security-related projects.
-*   **Selecting Security Champions:** Criteria include relevant technical experience, leadership qualities, strong communication skills, and existing security interest.
-*   **Program Activities:** Monthly training, security days and conferences, hackathons, certifications, and book clubs.
-
-## How many Champions do you need in the program?
-The general consensus is between 1 in 10 to 1 in 8. This means that most teams (assuming your teams are 5~8 people) will contain a security champion.
-
-## References
-
-*   [RSAConference YouTube Video](https://www.youtube.com/watch?v=9gVM93a1H1I&ab_channel=RSAConference)
-*   [Snyk Security Champions Playbook](https://go.snyk.io/security-champions-playbook.html)
-*   [OX Security Champions](https://www.ox.security/security-champions/)
-*   [SAFECode Security Champions Guide](https://safecode.org/wp-content/uploads/2019/02/Security-Champions-2019-.pdf)
-*   [Synopsys Security Champions in the DevSecOps Lifecycle](https://www.synopsys.com/content/dam/synopsys/sig-assets/ebooks/security-champions-devsecops-lifecycle.pdf)
-*   [SC Magazine: DevSecOps security champion programs: What they are, how to build one](https://www.scmagazine.com/resource/devsecops-security-champion-programs-what-they-are-how-to-build-one)
-*   [Invicti: Application Security Champions Program](https://www.invicti.com/blog/web-security/application-security-champions-program/)
-*   [edgeroute security-champion-framework](https://github.com/edgeroute/security-champion-framework)
+LS0tCnRpdGxlOiAiQnVpbGRpbmcgYSBEZXZTZWNPcHMgQ3VsdHVyZTogVGhl
+IFNlY3VyaXR5IENoYW1waW9ucyBQcm9ncmFtIgpkYXRlOiAyMDI0LTA2LTIz
+CmRyYWZ0OiBmYWxzZQotLS0KCiMjIFN1bW1hcnkKClRoaXMgYXJ0aWNsZSBl
+eHBsb3JlcyB0aGUgU2VjdXJpdHkgQ2hhbXBpb25zIFByb2dyYW0sIGEgc3Ry
+YXRlZ2ljIGluaXRpYXRpdmUgZGVzaWduZWQgdG8gZm9zdGVyIGNvbGxhYm9y
+YXRpb24gYmV0d2VlbiBzZWN1cml0eSwgZGV2ZWxvcG1lbnQsIGFuZCBvcGVy
+YXRpb25zIHRlYW1zIHdpdGhpbiBhIERldlNlY09wcyBjdWx0dXJlLiBJdCBk
+aXNjdXNzZXMgdGhlIHJvbGVzIGFuZCByZXNwb25zaWJpbGl0aWVzIG9mIHNl
+Y3VyaXR5IGNoYW1waW9ucywgdGhlIGNyaXRlcmlhIGZvciBzZWxlY3Rpbmcg
+dGhlbSwgYW5kIHRoZSBhY3Rpdml0aWVzIHRoYXQgcHJvbW90ZSBhIHNlY3Vy
+aXR5LWNvbnNjaW91cyBlbnZpcm9ubWVudC4gVGhlIHByb2dyYW0gYWltcyB0
+byBhZGRyZXNzIHRoZSBpbWJhbGFuY2Ugb2Ygc2VjdXJpdHkgZXhwZXJ0cyB0
+byBkZXZlbG9wZXJzIGluIG1hbnkgY29tcGFuaWVzIGJ5IGVtcG93ZXJpbmcg
+aW5kaXZpZHVhbHMgd2l0aGluIGRldmVsb3BtZW50IHRlYW1zIHRvIGFjdCBh
+cyBzZWN1cml0eSBhZHZvY2F0ZXMuIFRoZXNlIGNoYW1waW9ucyBhcmUgdHJh
+aW5lZCB0byBpZGVudGlmeSB2dWxuZXJhYmlsaXRpZXMsIHByb21vdGUgc2Vj
+dXJlIGNvZGluZyBwcmFjdGljZXMsIGFuZCBzZXJ2ZSBhcyBsaWFpc29ucyBi
+ZXR3ZWVuIHRoZSBzZWN1cml0eSB0ZWFtIGFuZCBkZXZlbG9wZXJzLCBmb3N0
+ZXJpbmcgY29udGludW91cyBpbXByb3ZlbWVudCBhbmQgcHJvYWN0aXZlIGRl
+ZmVuc2UuIFRoZSBhcnRpY2xlIGFsc28gaGlnaGxpZ2h0cyB0aGUgaW1wb3J0
+YW5jZSBvZiBzZWxlY3RpbmcgaW5kaXZpZHVhbHMgd2l0aCByZWxldmFudCB0
+ZWNobmljYWwgZXhwZXJpZW5jZSwgbGVhZGVyc2hpcCBxdWFsaXRpZXMsIHN0
+cm9uZyBjb21tdW5pY2F0aW9uIHNraWxscywgYW5kIGV4aXN0aW5nIHNlY3Vy
+aXR5IGludGVyZXN0IHRvIGVuc3VyZSB0aGUgcHJvZ3JhbSdzIHN1Y2Nlc3Mu
+CgojIyBLZXkgQ29uY2VwdHMKCiogICAqKlNlY3VyaXR5IENoYW1waW9ucyBQ
+cm9ncmFtOioqIEEgcHJvZ3JhbSBydW4gYnkgdGhlIHNlY3VyaXR5IHRlYW0g
+dG8gaW1wcm92ZSB0aGUgY29tcGFueeKAmXMgc2VjdXJpdHkgcG9zdHVyZSBi
+eSBzZWxlY3RpbmcgYW5kIHRyYWluaW5nIGluZGl2aWR1YWxzIHdpdGhpbiBk
+ZXZlbG9wbWVudCB0ZWFtcyB0byBhY3QgYXMgc2VjdXJpdHkgYWR2b2NhdGVz
+LgoqICAgKipSZXNwb25zaWJpbGl0aWVzIG9mIFNlY3VyaXR5IENoYW1waW9u
+czoqKiBUcmFpbmluZyBhbmQgY29hY2hpbmcsIHN0YXlpbmcgdXAgdG8gZGF0
+ZSBvbiBiZXN0IHByYWN0aWNlcywgY29vcGVyYXRpb24gYmV0d2VlbiB0ZWFt
+cywgYW5kIGVuaGFuY2luZyBzZWN1cml0eSBieSBwYXJ0aWNpcGF0aW5nIGlu
+IHNlY3VyaXR5LXJlbGF0ZWQgcHJvamVjdHMuCiogICAqKlNlbGVjdGluZyBT
+ZWN1cml0eSBDaGFtcGlvbnM6KiogQ3JpdGVyaWEgaW5jbHVkZSByZWxldmFu
+dCB0ZWNobmljYWwgZXhwZXJpZW5jZSwgbGVhZGVyc2hpcCBxdWFsaXRpZXMs
+IHN0cm9uZyBjb21tdW5pY2F0aW9uIHNraWxscywgYW5kIGV4aXN0aW5nIHNl
+Y3VyaXR5IGludGVyZXN0LgoqICAgKipQcm9ncmFtIEFjdGl2aXRpZXM6Kiog
+TW9udGhseSB0cmFpbmluZywgc2VjdXJpdHkgZGF5cyBhbmQgY29uZmVyZW5j
+ZXMsIGhhY2thdGhvbnMsIGNlcnRpZmljYXRpb25zLCBhbmQgYm9vayBjbHVi
+cy4KCiMjIFJlZmVyZW5jZXMKCiogICBbaHR0cHM6Ly93d3cueW91dHViZS5j
+b20vd2F0Y2g/dj05Z1ZNOTNhMUgxSSZhYl9jaGFubmVsPVJTQUNvbmZlcmVu
+Y2VdKGh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9OWdWTTkzYTFI
+MUkmYWJfY2hhbm5lbD1SU0FDb25mZXJlbmNlKQoqICAgW2h0dHBzOi8vZ28u
+c255ay5pby9zZWN1cml0eS1jaGFtcGlvbnMtcGxheWJvb2suaHRtbF0oaHR0
+cHM6Ly9nby5zbnlrLmlvL3NlY3VyaXR5LWNoYW1waW9ucy1wbGF5Ym9vay5o
+dG1sKQoqICAgW2h0dHBzOi8vd3d3Lm94LnNlY3VyaXR5L3NlY3VyaXR5LWNo
+YW1waW9ucy9dKGh0dHBzOi8vd3d3Lm94LnNlY3VyaXR5L3NlY3VyaXR5LWNo
+YW1waW9ucy8pCiogICBbaHR0cHM6Ly9zYWZlY29kZS5vcmcvd3AtY29udGVu
+dC91cGxvYWRzLzIwMTkvMDIvU2VjdXJpdHktQ2hhbXBpb25zLTIwMTktLnBk
+Zl0oaHR0cHM6Ly9zYWZlY29kZS5vcmcvd3AtY29udGVudC91cGxvYWRzLzIw
+MTkvMDIvU2VjdXJpdHktQ2hhbXBpb25zLTIwMTktLnBkZikKKiAgIFtodHRw
+czovL3d3dy5zeW5vcHN5cy5jb20vY29udGVudC9kYW0vc3lub3BzeXMvc2ln
+LWFzc2V0cy9lYm9va3Mvc2VjdXJpdHktY2hhbXBpb25zLWRldnNlY29wcy1s
+aWZlY3ljbGUucGRmXShodHRwczovL3d3dy5zeW5vcHN5cy5jb20vY29udGVu
+dC9kYW0vc3lub3BzeXMvc2lnLWFzc2V0cy9lYm9va3Mvc2VjdXJpdHktY2hh
+bXBpb25zLWRldnNlY29wcy1saWZlY3ljbGUucGRmKQoqICAgW2h0dHBzOi8v
+d3d3LnNjbWFnYXppbmUuY29tL3Jlc291cmNlL2RldnNlY29wcy1zZWN1cml0
+eS1jaGFtcGlvbi1wcm9ncmFtcy13aGF0LXRoZXktYXJlLWhvdy10by1idWls
+ZC1vbmVdKGh0dHBzOi8vd3d3LnNjbWFnYXppbmUuY29tL3Jlc291cmNlL2Rl
+dnNlY29wcy1zZWN1cml0eS1jaGFtcGlvbi1wcm9ncmFtcy13aGF0LXRoZXkt
+YXJlLWhvdy10by1idWlsZC1vbmUpCiogICBbaHR0cHM6Ly93d3cuaW52aWN0
+aS5jb20vYmxvZy93ZWItc2VjdXJpdHkvYXBwbGljYXRpb24tc2VjdXJpdHkt
+Y2hhbXBpb25zLXByb2dyYW0vXShodHRwczovL3d3dy5pbnZpY3RpLmNvbS9i
+bG9nL3dlYi1zZWN1cml0eS9hcHBsaWNhdGlvbi1zZWN1cml0eS1jaGFtcGlv
+bnMtcHJvZ3JhbS8pCiogICBbaHR0cHM6Ly9naXRodWIuY29tL2VkZ2Vyb3V0
+ZS9zZWN1cml0eS1jaGFtcGlvbi1mcmFtZXdvcmtdKGh0dHBzOi8vZ2l0aHVi
+LmNvbS9lZGdlcm91dGUvc2VjdXJpdHktY2hhbXBpb24tZnJhbWV3b3JrKQ==
