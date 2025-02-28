@@ -2,6 +2,8 @@
 title: "Getting the big picture with Log Analysis | Last9 SRE Platform"
 date: 2022-02-06
 draft: false
+categories: ["DevOps"]
+tags: ["Alerting", "SLOs"]
 images:
 - https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fHBpY3R1cmV8ZW58MHx8fHwxNjQ4MTIyMTcz&ixlib=rb-1.2.1&q=80&w=2000
 ---

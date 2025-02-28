@@ -4,7 +4,10 @@ date: 2022-10-08
 lastmod: 2022-10-08
 author: Alexandre Couëdelo
 description: "Explore the benefits of log analysis and how it can help you improve your system's state."
-images: []
+categories: ["DevOps"]
+tags: ["Alerting", "SLOs"]
+images:
+- https://last9.ghost.io/content/images/2022/10/Static-Threshold-vs.-Dynamic-Threshold-Alerting-copy.jpg
 ---
 
 Original article: [Static Threshold vs. Dynamic Threshold Alerting](https://last9.io/blog/static-threshold-vs-dynamic-threshold-alerting)
