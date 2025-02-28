@@ -2,6 +2,8 @@
 title: "Building a DevSecOps Culture: The Security Champions Program"
 date: 2024-06-23
 draft: false
+images:
+- https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZHzzCl3alI3UHdzfQ8iddw.png
 ---
 
 > Original Complete Article : [Read on Medium](https://medium.com/itnext/building-a-devsecops-culture-the-security-champions-program-3d5c5afa6eba)
