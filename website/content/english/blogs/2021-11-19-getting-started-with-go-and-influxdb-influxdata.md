@@ -4,7 +4,8 @@ date: 2021-11-19
 draft: false
 description: In this article, you will learn how to integrate InfluxDB with a Go application, enabling you to effectively manage time-series data.
 author: Alexandre Couëdelo
-images: []
+images: 
+- https://www.influxdata.com/wp-content/uploads/influxdb-querying-data.png
 tags: [InfluxDB, Go, Time-Series Data, IoT, Database]
 --- 
 
