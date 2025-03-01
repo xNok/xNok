@@ -12,7 +12,7 @@ This article explores how to use the **gRPC framework** with **Golang** for micr
 
 **Key points:**
 
-*   **gRPC** is a Remote Procedure Call (RPC) framework that provides better speed and efficiency than REST APIs.
+* **gRPC** is a Remote Procedure Call (RPC) framework that provides better speed and efficiency than REST APIs.
 * **Protocol buffers** offer more efficient binary data representation than text-based formats like JSON or XML.
 * The tutorial guides You through implementing a gRPC client-server application in Go, including creating a Go project, implementing application logic, and implementing the gRPC server and client.
 * The article also covers advanced topics, such as streaming with gRPC.
