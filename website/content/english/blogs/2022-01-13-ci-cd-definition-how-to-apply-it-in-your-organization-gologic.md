@@ -1,11 +1,11 @@
 ---
-title: "CI/CD Definition: How to Apply It in Your Organization?"
+title: "[What is CI/CD and how to apply it in your organization?"
 date: 2022-01-13
 draft: false
 categories: ["DevOps"]
 tags: ["CI/CD", "DevOps"]
 images:
-  - https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/d8292f84-dba1-454a-8577-b0b2a1ba2b3a/Article_Blogue_CICD_Application_Organisation.png
+  - https://www.gologic.ca/wp-content/uploads/2022/01/Article_Blogue_CICD_Application_Organisation.png.webp
 ---
 
 > Original Article: [What is CI/CD and how to apply it in your organization?](https://www.gologic.ca/en/what-is-ci-cd-and-how-to-apply-it-in-your-organization/)
@@ -21,10 +21,3 @@ This article defines **CI/CD** as core practices for a successful **DevOps** tra
 *   **Continuous Deployment:** The holy grail of DevOps, where every change that passes the automated tests is automatically deployed to production.
 *   **Fail-Fast Approach:** Implementing validation at every step of the process so teams can quickly identify and fix issues.
 
-## Infrastructure
-
-*   Micro-services
-*   Resources
-*   Shared services
-*   Platform
-*   Infrastructure
