@@ -4,6 +4,8 @@ date: 2023-06-13
 draft: false
 categories: ["Programming"]
 tags: ["Golang","gRPC"]
+images:
+- https://opensource.google/static/images/projects/os-projects-grpc.svg
 ---
 
 > [Original Article](https://speedscale.com/2022/05/03/using-grpc-with-golang/)
