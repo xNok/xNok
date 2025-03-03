@@ -1,5 +1,5 @@
 ---
-title: "[What is CI/CD and how to apply it in your organization?"
+title: "What is CI/CD and how to apply it in your organization?"
 date: 2022-01-13
 draft: false
 categories: ["DevOps"]
