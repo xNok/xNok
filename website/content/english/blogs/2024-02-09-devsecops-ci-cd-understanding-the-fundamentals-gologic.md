@@ -1,5 +1,5 @@
 ---
-title: "DevSecOps CI/CD : Understanding the Fundamentals—Gologic"
+title: "DevSecOps CI/CD : Understanding the Fundamentals"
 date: 2024-02-09
 draft: false
 categories: ["Security"]
@@ -12,7 +12,9 @@ images:
 
 ## Summary
 
-This article explores the fundamentals of **DevSecOps** CI/CD pipelines, emphasizing the importance of balancing speed and security in software development. You will learn about key security features and measures to safeguard sensitive information, prevent unauthorized access, and mitigate potential security vulnerabilities. The article highlights seven crucial security points in the CI/CD process that require attention, including:
+This article explores the fundamentals of **DevSecOps** CI/CD pipelines, emphasizing the importance of balancing **speed** and **security** in software development, in the same way DevOps strives for **speed** and **reliability**.
+
+  You will learn about key security features and measures to safeguard sensitive information, prevent unauthorized access, and mitigate potential security vulnerabilities thought **7 crucial security points** in the CI/CD process that require attention, including:
 
 1.  **Developer Identity:** Verifying developers' identities using methods like commit signing, SSH keys, and SSO.
 2.  **CI/CD Workload Identity:** Limiting permissions to only what’s necessary for CI/CD processes to prevent attackers from manipulating code and artifacts.
