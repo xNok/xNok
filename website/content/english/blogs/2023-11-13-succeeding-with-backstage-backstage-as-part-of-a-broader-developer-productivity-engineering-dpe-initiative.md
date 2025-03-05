@@ -12,7 +12,7 @@ images:
 
 ## Summary
 
-This article discusses integrating **Backstage** into a broader **Developer Productivity Engineering (DPE)** initiative. **DPE** focuses on simplifying developer tasks and promoting collaboration to enhance their experience. The article explores how **Backstage** can contribute to **DPE** by centralizing the software ecosystem, integrating tools, and improving information retrieval. While **Backstage** offers benefits like a software catalog and automation through templates, it also has limitations, such as the need for dedicated resources and the lack of specific **DPE** plugins. The article concludes that **Backstage** can be a powerful tool for **DPE** if implemented with a dedicated team and a clear adoption plan, empowering developers and making them more autonomous.
+This article discusses integrating **Backstage** into a broader **Developer Productivity Engineering (DPE)** initiative. **DPE** focuses on simplifying developer tasks and promoting collaboration to enhance their experience. I explores how **Backstage** can contribute to **DPE** by centralizing the software ecosystem, integrating tools, and improving information retrieval. While **Backstage** offers benefits like a software catalog and automation through templates, it also has limitations, such as the need for dedicated resources and the lack of specific **DPE** plugins. 
 
 ## Key Concepts
 
