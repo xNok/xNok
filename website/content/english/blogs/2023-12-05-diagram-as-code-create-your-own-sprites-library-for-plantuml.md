@@ -2,7 +2,7 @@
 title: "Diagram as Code: Create Your Own Sprites library for PlantUML"
 date: 2023-12-05
 draft: false
-categories: ["Diagram"]
+categories: ["Diagrams"]
 tags: ["PlantUML"]
 images:
 - https://miro.medium.com/v2/resize:fit:1200/1*ioPsh4XYhWZV2GsoZ0gd-Q.png
