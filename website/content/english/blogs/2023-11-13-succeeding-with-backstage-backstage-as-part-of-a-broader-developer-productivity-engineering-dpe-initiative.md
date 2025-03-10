@@ -3,7 +3,7 @@ title: "Succeeding with Backstage: Backstage as Part of a Broader Developer Prod
 date: 2023-11-13
 draft: false
 categories: ["Developer Experience"]
-tags: ["Backstage", "DPE", "Developer Productivity", "Developer Experience"]
+tags: ["Backstage", "Developer Productivity", "Developer Experience"]
 images:
 - https://www.kosli.com/images/blog/kosli-blog-succeeding-with-backstage-4-backstage-as-part-of-a-broader-developer-productivity-engineering-dpe-initiative-social-1-.jpg
 ---
