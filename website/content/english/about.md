@@ -14,6 +14,8 @@ partners:
   title : "My Contents also published <br> on these websites"
   partner_logos:
   - "https://last9.io/_astro/logo.hetiPRKh_ZezTJ5.svg"
+  - "https://earthly.dev/assets/img/earthly-logo-news.png"
+  - "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/1196px-Medium_%28website%29_logo.svg.png"
 
 ---
 
