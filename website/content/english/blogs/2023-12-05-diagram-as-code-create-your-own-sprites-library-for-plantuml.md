@@ -12,7 +12,7 @@ images:
 
 ## Summary
 
-This article guides **you** through creating a personalized sprites library for **PlantUML**, enhancing diagrams with custom visuals. **You** will learn how to convert images to PlantUML sprites and use the generated sprites in **your** PlantUML diagrams. Finally, I demonstrate how to create a PlantUML library by adding styling definitions to elements using Macros, and the use of `!define` and `!includeurl` to create a less verbose and intuitive diagram definition.
+This article guides **you** through creating a personalized sprites library for **PlantUML**, enhancing diagrams with custom visuals. You will learn how to convert images to PlantUML sprites and use the generated sprites in your PlantUML diagrams. Finally, I demonstrate how to create a PlantUML library by adding styling definitions to elements using Macros, and the use of `!define` and `!includeurl` to create a less verbose and intuitive diagram definition.
 
 As a bonus, I detailed setting up a **Devcontainer** environment, simplifying the setup of all tooling requirements.
 
