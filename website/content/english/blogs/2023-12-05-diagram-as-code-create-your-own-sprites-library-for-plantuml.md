@@ -18,6 +18,12 @@ As a bonus, I detailed setting up a **Devcontainer** environment, simplifying th
 
 ## Key Concepts
 
-*   **PlantUML Sprites:** Graphic elements for styling PlantUML components.
-*   **PlantUML Macros:** Functions for defining configuration sets in PlantUML.
+*   **PlantUML Sprites**: Graphic elements for styling PlantUML components.
+*   **PlantUML Macros**: Functions for defining configuration sets in PlantUML.
 *   **PlantUML Libraries**: Collection of sprites that can be reused to create diagrams with custom style
+
+## References
+
+*   [PlantUML sprite](https://plantuml.com/sprite)
+*   [PlantUML Hitchhikers Guide](https://crashedmind.github.io/PlantUMLHitchhikersGuide/PlantUMLSpriteLibraries/plantuml_sprites.html)
+*   [Stdlib Overview](https://crashedmind.github.io/PlantUMLHitchhikersGuide/Stdlib/StdLibOverview.html)
