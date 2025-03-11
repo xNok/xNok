@@ -5,7 +5,7 @@ draft: false
 categories: ["Programming"]
 tags: ["Golang", "REST API"]
 images:
-- https://www.jetbrains.com/go/guide/assets/diagram0-e7e79be2.png
+- https://www.jetbrains.com/guide/assets/thumbnail-a22e3d85.png
 ---
 
 > Original Article: [Go REST Guide. gorilla/mux Router](https://www.jetbrains.com/go/guide/tutorials/rest_api_series/gorilla-mux/)
