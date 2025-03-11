@@ -5,7 +5,7 @@ draft: false
 categories: ["DevOps"]
 tags: ["Terraform", "GitHub Actions"]
 images:
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/bd7f1233-e7ca-477f-8b2e-61f050221db8/0Awoi_2ICuXm2yOY1.png
+- https://miro.medium.com/v2/resize:fit:1100/format:webp/0*Awoi_2ICuXm2yOY1.png
 ---
 
 > Original Article: [How to Create SSH keys with Terraform?](https://faun.pub/how-to-create-ssh-keys-with-terraform-a615dfc631c1)
