@@ -5,7 +5,7 @@ draft: false
 categories: ["DevOps"]
 tags: ["DevXp"]
 images:
-- https://draft.dev/learn/assets/posts/3258_draftdev_what-is-developer-experience_1200x2280_option-1-1-.png
+- https://draft.dev/_next/image?url=%2Fapi%2Fimage%3Furl%3Dhttps%253A%252F%252Fcandid-cookie.flywheelsites.com%252Fwp-content%252Fuploads%252F2025%252F02%252Fwhat-is-developer-experience.png%26_v%3D1741728303745&w=1920&q=75
 ---
 
 > Original Complete Article : [Read on Draft.dev](https://draft.dev/learn/what-is-developer-experience)
