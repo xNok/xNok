@@ -1,24 +1,33 @@
---- 
-title: Getting Started with Go and InfluxDB | InfluxData
+---
+title: "Getting Started with Go and InfluxDB | InfluxData"
 date: 2021-11-19
 draft: false
-description: In this article, you will learn how to integrate InfluxDB with a Go application, enabling you to effectively manage time-series data.
-author: Alexandre Couëdelo
-images: 
+description: In this article, you will learn how to integrate InfluxDB with a Go application, enabling you to manage time-series data effectively.
+categories: ["Golang", "InfluxDB"]
+tags: ["Golang", "InfluxDB", "time-series", "database"]
+images:
 - https://www.influxdata.com/wp-content/uploads/influxdb-querying-data.png
-tags: [InfluxDB, Go, Time-Series Data, IoT, Database]
---- 
+---
 
-> Original article: [Getting Started with Go and InfluxDB | InfluxData](https://www.influxdata.com/blog/getting-started-go-influxdb/)
+> Original Article: [Getting Started with Go and InfluxDB](https://www.influxdata.com/blog/getting-started-go-influxdb/)
 
 ## Summary
 
-This article guides you through integrating **InfluxDB**, a high-performance time-series database, with a **Go** application. You'll learn how to set up a local **InfluxDB** instance using Docker, establish connections using the **Go** client library, and perform data insertions and queries. The tutorial covers data modeling, insertion methods, and querying techniques for a temperature monitoring application. By following this guide, you can gain a solid understanding of how to use **InfluxDB** with **Go** for managing time-series data.
+This article guides you through integrating **InfluxDB**, a high-performance time-series database, with a Go application. I'll walk you through setting up a local InfluxDB instance using Docker, establishing connections with the Go client library, and performing data insertions and queries. By following this tutorial, you will gain a solid understanding of how to model your data, utilize different insertion methods, and implement queries to extract insights from your temperature monitoring application.
 
-This tutorial covers:
 
-*   Setting up InfluxDB with Docker.
-*   Connecting to InfluxDB using the Go client library.
-*   Modeling data for time-series storage.
-*   Inserting data using line protocol, data points with constructors, and fluent style.
-*   Querying data using [Flux](https://www.influxdata.com/products/flux/) scripting language.
+## Key Concepts
+
+*   **InfluxDB:** A **high-performance data store** explicitly written for **time-series data**, offering tools to ingest, transform, and visualize data.
+*   **Go Client Library:**  A dedicated client library to integrate InfluxDB directly into your backend application.
+*   **Data Modeling:** Structuring your data to store changes in "thermostat settings" to InfluxDB, including user identifiers, desired average, and maximum temperatures.
+*   **Data Insertion Methods:**
+    *   **Line Protocol:** Uses text-based database queries, treating records as measurementName, fields, and tags.
+    *   **Data Point with Constructor:** Employs maps to populate data, convenient when parameters are already in the desired format.
+    *   **Data Point with Fluent Style:** Utilizes a builder pattern for step-by-step query construction, enhancing readability.
+*   **Batching:** The InfluxDB client uses batching to send data to the database. By default, no data will be sent to the database until the batch size is reached (5,000 points by default), as a trade between the load on the database and the availability of the data.
+*   **Flux Query Language:**  A functional language used to select, filter, and aggregate data in InfluxDB.
+
+## References
+
+*   [Go client library](https://pkg.go.dev/github.com/influxdata/influxdb-client-go/v2)
