@@ -1,5 +1,5 @@
 --- 
-title: "Version Control Security: Key Role in Deployment—Gologic"
+title: "Version Control Security: Key Role in Deployment"
 date: 2024-02-09
 draft: false
 categories: ["Security"]
@@ -17,14 +17,13 @@ This article highlights the critical role of **version control security** in the
 You will understand the risks involved in **version control systems** and how to mitigate **unauthorized access** and **unauthorized write**. The article also covers topics such as setting repository access rights, protecting developer credentials, and ensuring developer identification. By implementing the best practices discussed, you will be able to protect your version control system and enhance the security of your software supply chain.
 
 
-Key points covered include:
+## Key points
 
 *   Evaluating the risks of unauthorized access and unauthorized write.
 *   Setting repository access rights and contribution rules.
 *   Protecting developer credentials through SSH keys and smart password managers.
 *   Ensuring developer identity through commit signing.
 
-By following these guidelines, you can enhance the security of your version control system and protect your software supply chain.
 
 ## References
 
