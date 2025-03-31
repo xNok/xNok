@@ -1,5 +1,5 @@
 ---
-title: "Why organizations are turning to decoupled authorization solutions | Cerbos"
+title: "Why organizations are turning to decoupled authorization solutions"
 date: 2023-11-21
 draft: false
 categories: ["Security"]
@@ -8,7 +8,7 @@ images:
 - https://cdn.builder.io/api/v1/image/assets/2517c53399d846eea97f6c5ae8804b7f/842076d3c54c4c2789a2db691d28afe8
 ---
 
-> Original Article: [Original Article](https://www.cerbos.dev/blog/why-organizations-are-turning-to-decoupled-authorization-solutions)
+> Original Article: [Read on Cerbos](https://www.cerbos.dev/blog/why-organizations-are-turning-to-decoupled-authorization-solutions)
 
 ## Summary
 
