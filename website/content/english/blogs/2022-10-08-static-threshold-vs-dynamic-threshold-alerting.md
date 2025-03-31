@@ -1,25 +1,32 @@
----
-title: Static Threshold vs. Dynamic Threshold Alerting
+--- 
+title: "Static Threshold vs. Dynamic Threshold Alerting"
 date: 2022-10-08
-lastmod: 2022-10-08
-author: Alexandre Couëdelo
-description: "Explore the benefits of log analysis and how it can help you improve your system's state."
+draft: false
 categories: ["DevOps"]
-tags: ["Alerting", "SLOs"]
+tags: ["Alerting", "Monitoring"]
 images:
 - https://last9.ghost.io/content/images/2022/10/Static-Threshold-vs.-Dynamic-Threshold-Alerting-copy.jpg
 ---
 
-Original article: [Static Threshold vs. Dynamic Threshold Alerting](https://last9.io/blog/static-threshold-vs-dynamic-threshold-alerting)
+> Original Article: [Static Threshold vs. Dynamic Threshold Alerting](https://last9.io/blog/static-threshold-vs-dynamic-threshold-alerting)
 
-This blog post discusses the importance of **log analysis** in understanding a system's state and quickly pinpointing faulty systems. It emphasizes that with a sound **log management system** and working knowledge about analytics, logs can be very valuable.
+## Summary
 
-Key points covered include:
+This article compares **static thresholds** and **dynamic thresholds** in **alerting systems**. I explain when and how to use each type effectively to maintain system reliability and avoid alert fatigue. Understanding the strengths and weaknesses of both approaches is essential. You'll also find strategies to improve your **alerting systems** and how to balance sensitivity to avoid alert fatigue while ensuring critical issues are not missed.
 
-*   The definition and benefits of **log analysis**, highlighting its role in providing a record of events in an application's lifecycle.
-*   The stages of **log management**, including data collection, cataloging, indexing, searching, and analyzing data.
-*   Different types of logs, such as application logs, server logs, system logs, access logs, and change/deployment logs.
-*   The importance of setting up **alerts and dashboards** on metrics of interest, with a focus on using **Service Level Objectives (SLOs)** to avoid alert fatigue.
-*   Driving continuous improvement with **log analysis** by adopting log standards, involving team members in log analysis, and challenging the team to create a zero error/exception system.
+**Static thresholds** involve setting fixed limits for metrics, triggering alerts when these limits are breached. They are simple to configure and effective for monitoring resources like CPU and disk usage. However, they may not be suitable for capturing the nuances of system health, often leading to false positives.
 
-The post concludes that log analysis is a core problem resolution tool in software operation and encourages the reader to view it as a way to stimulate continuous improvement.
+**Dynamic thresholds**, on the other hand, use algorithms to analyze data patterns and historical values, automatically adjusting thresholds based on system behavior. This approach is more accurate and scalable, reducing false positives and enabling better anomaly detection. Dynamic thresholds are particularly useful in complex systems where a single static limit cannot capture the full context of the system's state.
+
+
+## Key Concepts
+
+*   **Static Threshold:** A fixed limit for a metric that triggers an alert when breached.
+*   **Dynamic Threshold:** An algorithm-driven approach that adjusts thresholds based on data patterns and historical values.
+*   **Alert Fatigue:** A state of exhaustion caused by an oversensitive alerting system, leading to response team burnout.
+*   **Service-Level Objective (SLO):** A method of improving static thresholds by reframing a metric as a percentage of an error budget and comparing it to user impact.
+*   **Dynamic Multivariate Threshold:** Coupling variables together to create a more precise alert and reduce false positives.
+
+## References
+
+*   [Google SRE Handbook](https://sre.google/sre-book/table-of-contents/)
