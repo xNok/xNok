@@ -2,10 +2,10 @@
 title: "Handler and Middleware Design Pattern in Golang"
 date: 2021-03-30
 draft: false
-categories: ["Golang", "Design Patterns"]
+categories: ["Golang"]
 tags: ["Golang", "Middleware", "Handler"]
 images:
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/fab872c6-91f9-4f69-af51-b336b91b1dbb/1Cj9IpxiMkFFcu0lz9sQ66Q.png
+- https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Cj9IpxiMkFFcu0lz9sQ66Q.png
 ---
 
 > Original Article: [Handler and Middleware Design Pattern in Golang](https://medium.com/codex/handler-and-middleware-design-pattern-in-golang-de23ec452fce)
