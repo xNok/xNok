@@ -5,7 +5,7 @@ draft: false
 categories: ["DevOps"]
 tags: ["Alerting", "Monitoring"]
 images:
-- https://blog.last9.io/content/images/2022/10/Static-Threshold-vs.-Dynamic-Threshold-Alerting-copy.jpg
+- https://last9.ghost.io/content/images/2022/10/Static-Threshold-vs.-Dynamic-Threshold-Alerting-copy.jpg
 ---
 
 > Original Article: [Static Threshold vs. Dynamic Threshold Alerting](https://last9.io/blog/static-threshold-vs-dynamic-threshold-alerting)
@@ -29,4 +29,4 @@ This article compares **static thresholds** and **dynamic thresholds** in **aler
 
 ## References
 
-*   [Static Threshold vs. Dynamic Threshold Alerting](https://last9.io/blog/static-threshold-vs-dynamic-threshold-alerting)
+*   [Google SRE Handbook](https://sre.google/sre-book/table-of-contents/)
