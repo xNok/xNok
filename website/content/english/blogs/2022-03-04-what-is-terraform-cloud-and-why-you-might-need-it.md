@@ -16,11 +16,10 @@ This article explains **Terraform Cloud**, a platform that helps you manage and 
 
 ## Key Concepts
 
-*   **Terraform Cloud**: A HashiCorp platform for managing and automating infrastructure as code.
-*   **Collaboration**: Facilitates team collaboration on infrastructure projects with features like access control and shared state.
-*   **Automation**: Automates infrastructure provisioning and management tasks, reducing manual effort and errors.
-*   **Consistency**: Ensures consistency across cloud environments by enforcing policies and configurations.
+*   **Terraform Cloud**: A Terraform based HashiCorp platform for managing and automating infrastructure as code.
+## Update
 
+I have since moved away from Terraform Cloud. While the workflow they offer is rather good in practice, it was too much more practical to have Ansible run my Terraform workflows since the end goal is to provision the VM created in the process.
 ## References
 
 *   [Terraform Cloud Documentation](https://www.terraform.io/cloud)
