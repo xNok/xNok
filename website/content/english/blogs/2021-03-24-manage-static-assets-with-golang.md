@@ -5,7 +5,7 @@ draft: false
 categories: ["Golang", "Slack"]
 tags: ["Golang", "SlackBot"]
 images:
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/f9888c0f-03f6-498b-b951-0eed7cca54aa/1EmVgjYhgcGYobXu_9T5DIg.png
+- https://miro.medium.com/v2/resize:fit:1100/format:webp/1*EmVgjYhgcGYobXu_9T5DIg.png
 ---
 
 > Original Article: [Manage Static Assets with Golang](https://couedeloalexandre.medium.com/manage-static-assets-with-embed-golang-1-16-75c89c3eea39)
