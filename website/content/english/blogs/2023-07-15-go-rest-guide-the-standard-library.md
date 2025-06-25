@@ -3,7 +3,7 @@ title: "Go REST Guide. The Standard Library"
 date: 2023-07-15
 draft: false
 categories: ["Programming"]
-tags: ["Go", "REST API", "Standard Library", "Web Development"]
+tags: ["Go", "REST API", "Web Development"]
 images:
 - https://www.jetbrains.com/go/guide/assets/1-run-07a86223.gif
 - https://www.jetbrains.com/go/guide/assets/2-endpoints-debbfa6a.gif
