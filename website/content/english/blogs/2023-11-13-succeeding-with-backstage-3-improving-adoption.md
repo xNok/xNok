@@ -3,7 +3,7 @@ title: 'Succeeding with Backstage 3: Improving Adoption'
 images:
   - "https://www.kosli.com/images/blog/kosli-blog-succeeding-with-backstage-3-improving-adoptione-social.jpg"
 date: 2023-11-13
-tags: ["Backstage", "Developer Experience", "Adoption", "Platform Engineering"]
+tags: ["Backstage", "Developer Experience", "Platform Engineering"]
 categories: ["DevOps"]
 draft: false
 ---
