@@ -14,7 +14,7 @@ googleAnalytics = "G-B3LMX8KKXC" # example: UA-123456-78, for more info, read th
 disableLanguages = [
 ] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
-
+enableRobotsTXT = true
 
 ############################# Build ##############################
 [build]
