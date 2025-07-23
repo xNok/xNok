@@ -3,7 +3,7 @@ title: "Permanent vs. Ephemeral Kubernetes Environments: A Comprehensive Guide"
 date: 2023-06-07
 draft: false
 categories: ["Kubernetes", "DevOps"]
-tags: ["Kubernetes", "Ephemeral Environments", "Permanent Environments", "Infrastructure as Code", "GitOps"]
+tags: ["Kubernetes", "Infrastructure as Code", "GitOps"]
 images:
   - https://static.wixstatic.com/media/378e25_05f441e441e7470a963af9d824229807~mv2.jpg/v1/fill/w_1000,h_523,al_c,q_85,usm_0.66_1.00_0.01/378e25_05f441e441e7470a963af9d824229807~mv2.jpg
 ---
