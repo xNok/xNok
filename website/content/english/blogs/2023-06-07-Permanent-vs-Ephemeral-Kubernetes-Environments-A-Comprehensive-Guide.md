@@ -7,7 +7,6 @@ tags: ["Kubernetes", "Ephemeral Environments", "Permanent Environments", "Infras
 images:
   - https://static.wixstatic.com/media/378e25_05f441e441e7470a963af9d824229807~mv2.jpg/v1/fill/w_1000,h_523,al_c,q_85,usm_0.66_1.00_0.01/378e25_05f441e441e7470a963af9d824229807~mv2.jpg
   - https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/a0f9dcde-a102-4786-87be-bb11adaf1633/378e25_e4e2f694400c40c1a50e4793d021cbfcmv2.png
-  - https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/c9e1359f-0e52-4715-bce2-0693839f8a08/378e25_30d91e15ea2b46dc8ba56f6da3a6438dmv2.png
 ---
 
 [Original Article](https://www.stakater.com/post/permanent-vs-ephemeral-kubernetes-environments-a-comprehensive-guide)
