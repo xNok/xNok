@@ -23,11 +23,3 @@ Conversely, I highlight the transformative potential of **ephemeral environments
 A key takeaway from my analysis is that embracing **ephemeral environments** is a strong indicator of **Operational Excellence**. It necessitates a commitment to consistent and reproducible automation, where your **Infrastructure-as-Code** and **GitOps** principles are rigorously tested. While Kubernetes provides a solid foundation for this by enabling environment isolation through namespaces and configuration management with tools like **Kustomize** or **Helm**, I also address the challenge of provisioning external, shared resources like databases and caches. I explore solutions such as using **Terraform modules** or **Kubernetes Operators** like **CrossPlane** to seamlessly provision these necessary cloud resources, advocating for a holistic platform design where applications are environment-agnostic.
 
 Ultimately, I argue that while there's an initial investment in establishing the provisioning processes for ephemeral environments, the long-term benefits in terms of cost efficiency, reduced risk, and accelerated delivery make them the logical choice for modern software development. This shift moves you away from the constraints of traditional fixed environments towards a truly agile and dynamic infrastructure.
-
-## Images
-
-![A typical permanent environment flow](https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/a0f9dcde-a102-4786-87be-bb11adaf1633/378e25_e4e2f694400c40c1a50e4793d021cbfcmv2.png)
-_A typical permanent environment flow_
-
-![Environment architecture for Kubernetes](https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/c9e1359f-0e52-4715-bce2-0693839f8a08/378e25_30d91e15ea2b46dc8ba56f6da3a6438dmv2.png)
-_Environment architecture for Kubernetes_
