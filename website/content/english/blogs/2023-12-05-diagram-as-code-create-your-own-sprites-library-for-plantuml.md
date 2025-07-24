@@ -1,4 +1,4 @@
---- 
+---
 title: "Diagram as Code: Create Your Own Sprites library for PlantUML"
 date: 2023-12-05
 draft: false
@@ -12,9 +12,7 @@ images:
 
 ## Summary
 
-This article guides **you** through creating a personalized sprites library for **PlantUML**, enhancing diagrams with custom visuals. You will learn how to convert images to PlantUML sprites and use the generated sprites in your PlantUML diagrams. Finally, I demonstrate how to create a PlantUML library by adding styling definitions to elements using Macros, and the use of `!define` and `!includeurl` to create a less verbose and intuitive diagram definition.
-
-As a bonus, I detailed setting up a **Devcontainer** environment, simplifying the setup of all tooling requirements.
+This article guides **you** on creating **your** own **PlantUML sprites library** to enhance diagrams with custom visuals. **I** explain how to **set up your environment** using a **Devcontainer**, and the **process of generating sprites** from images by resizing and converting them to grayscale with tools like Mogrify and the PlantUML CLI's `create_sprites.sh` script. You will learn to **integrate these sprites** into your diagrams using `!includeurl` and how to **build comprehensive libraries** with **PlantUML Macros** for a less verbose syntax. **I** also touch upon a more **advanced, manual approach** for creating highly customized components. This ultimately provides **you** with the power to create more visually engaging and personalized PlantUML diagrams.
 
 ## Key Concepts
 
