@@ -8,18 +8,18 @@ images:
 - https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZHzzCl3alI3UHdzfQ8iddw.png
 ---
 
-> Original Complete Article : [Read on Medium](https://medium.com/itnext/building-a-devsecops-culture-the-security-champions-program-3d5c5afa6eba)
+> Original Article : [Read on Medium](https://medium.com/itnext/building-a-devsecops-culture-the-security-champions-program-3d5c5afa6eba)
 
 ## Summary
 
-This article explores the **Security Champions Program**, a strategic initiative designed to foster collaboration between security, development, and operations teams within a **DevSecOps culture**. It discusses the roles and responsibilities of security champions, the criteria for selecting them, and the activities that promote a security-conscious environment. The program addresses the imbalance of security experts to developers in many companies by empowering individuals within development teams to act as **security advocates**. These champions are trained to identify vulnerabilities, promote secure coding practices, and serve as liaisons between the security team and developers, fostering continuous improvement and proactive defense. The article also highlights the importance of selecting individuals with relevant technical experience, leadership qualities, strong communication skills, and existing security interest to ensure the program's success.
+This article explores the **Security Champions Program**, a strategic initiative designed to foster collaboration between security, development, and operations teams within a **DevSecOps culture**. It addresses the imbalance of security experts to developers by empowering individuals within development teams to act as **security advocates**. These champions are trained to identify vulnerabilities, promote secure coding practices, and facilitate communication between security and development. The article details their responsibilities, which include training and coaching, staying up-to-date on best practices, fostering cooperation, and enhancing security initiatives. It also outlines key selection criteria for champions, emphasizing the importance of **technical experience**, **leadership qualities**, **strong communication skills**, and an existing **security interest**. The program aims to build a community around security, ensuring continuous improvement and proactive defense throughout the software development lifecycle.
 
 ## Key Concepts
 
-*   **Security Champions Program:** A program run by the security team to improve the company’s security posture by selecting and training individuals within development teams to act as security advocates.
+*   **Security Champions Program:** A program run by the security team to improve the company's security posture by selecting and training individuals within development teams to act as security advocates.
 *   **Responsibilities of Security Champions:** Training and coaching, staying up to date on best practices, cooperation between teams, and enhancing security by participating in security-related projects.
-*   **Selecting Security Champions:** Criteria include relevant technical experience, leadership qualities, strong communication skills, and existing security interest.
-*   **Program Activities:** Monthly training, security days and conferences, hackathons, certifications, and book clubs.
+*   **Selecting Security Champions:** Criteria include relevant technical experience (e.g., 2+ years in the company), leadership qualities, strong communication skills, and existing security interest. Nominations from development teams are also encouraged.
+*   **Program Activities:** Monthly training, security days/conferences, hackathons, certifications (e.g., CSSLP), and book clubs/discussion panels to build a security community.
 
 ## References
 
