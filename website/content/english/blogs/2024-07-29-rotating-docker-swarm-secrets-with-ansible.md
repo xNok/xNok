@@ -12,11 +12,9 @@ images:
 
 ## Summary
 
-In this article, I guide you through the process of effectively rotating **Docker Swarm secrets** using **Ansible**. As you know, Docker Swarm secrets are immutable, so you will learn how to automate secret management in a Docker Swarm environment. This involves implementing an Ansible role for secret rotation, covering **checksum calculations**, creating new secrets, updating Docker Compose files, and cleaning up unused secrets.
-
- Following this guide will give you a convenient solution to update Docker secrets and force the application to be redeployed with the latest secrets efficiently.
+In this article, I guide you through effectively rotating **Docker Swarm secrets** using **Ansible**, ensuring your application maintains security by managing secret values efficiently. Docker Swarm secrets are **immutable**, which presents a challenge for updates. I provide a step-by-step guide on implementing an Ansible role for secret rotation, covering crucial steps like **checksum calculations** to detect changes, **creating new secrets**, **updating Docker Compose files** to reference these new secrets, and **cleaning up unused secrets**. By automating this process, you will gain a clear understanding of efficient secret management in a Docker Swarm environment, significantly enhancing your **security posture**.
 
 ## References
 
 *   [infra-bootstrap-tools/ansible/roles/utils-rotate-docker-secrets](https://github.com/xNok/infra-bootstrap-tools/tree/main/ansible/roles/utils-rotate-docker-secrets)
-*   [How to Run an Ansible Playbook using GitHub Action?](https://faun.pub/@alexandrecouedelo/how-to-run-an-ansible-playbook-using-github-action-b9c95c7b3ca3)
+*   [How to Run an Ansible Playbook using GitHub Action?](https://faun.pub/@alexandrecoudelo/how-to-run-an-ansible-playbook-using-github-action-b9c95c7b3ca3)
