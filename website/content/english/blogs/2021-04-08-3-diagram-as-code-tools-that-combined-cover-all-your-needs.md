@@ -8,18 +8,10 @@ images:
 - https://miro.medium.com/v2/resize:fit:1100/format:webp/0*7bywZunS89jbAbXE
 ---
 
-> Original Complete Article : [Read on Medium](https://medium.com/geekculture/3-diagram-as-code-tools-that-combined-cover-all-your-needs-8f40f57d5cd8)
+[Original Article](https://medium.com/geekculture/3-diagram-as-code-tools-that-combined-cover-all-your-needs-8f40f57d5cd8)
 
 ## Summary
 
-This article explores three **diagram-as-code tools** that can cover all your needs as an engineer:
+The article emphasizes the crucial role of **diagrams as code** in enhancing an engineer's communication and collaboration skills. I explore three powerful tools that, when combined, can fulfill all your diagramming needs: **Diagrams** (for infrastructure visualization in Python and Go), **PlantUML** (ideal for creating UML, especially sequence diagrams, with a VS Code extension), and **Draw.io** (a flexible tool for quick diagrams, also with a VS Code extension).
 
-*   **Diagrams**: a Python library (and Golang implementation) for creating infrastructure diagrams.
-*   **PlantUML**:  a tool to generate UML diagrams, especially sequence diagrams, with a VS Code extension.
-*   **Draw.io**: A flexible diagramming tool that can be used directly in VS Code, allowing for quick and easy diagram creation.
-
-The author advocates for creating diagrams as code to improve team collaboration, document code, and visualize dependencies. They recommend creating diagrams at the beginning of a story, during pair programming, or during the Three Amigos process.
-
-## Update 
-
-I have since revised my position on the subject and only use two [PlantUML & Excalidraw](https://medium.com/better-programming/how-to-create-all-your-diagrams-with-the-power-of-code-f09518125702)
+I advocate for creating diagrams to conceptualize complex projects, bridge communication gaps between developers and business, visualize dependencies, and onboard new team members. I suggest integrating diagram creation at the start of a story, during pair programming sessions, or as part of the Three Amigos process to foster clear communication and efficient code.
