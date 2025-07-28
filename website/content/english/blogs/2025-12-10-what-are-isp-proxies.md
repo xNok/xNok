@@ -5,7 +5,7 @@ draft: false
 categories: ["Web Scraping"]
 tags: ["proxies", "ISP proxies", "web scraping", "datacenter proxies", "residential proxies", "anonymity", "rate limiting", "geo-location"]
 images:
-  - "https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/64cbe169-45e6-4ec2-8ce5-c3346c6cc034/Alexandre.jpg"
+  - "https://www.scrapingbee.com/blog/isp-proxy/cover_hu18047000366882754256.png"
 ---
 
 > Original Article: [What are ISP proxies? | ScrapingBee](https://www.scrapingbee.com/blog/isp-proxy/)
