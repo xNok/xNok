@@ -3,7 +3,7 @@ title: "Properly Welcome Users in Slack with Golang using Socket Mode"
 date: 2021-04-27
 draft: false
 categories: ["Development", "Golang", "Slack"]
-tags: ["Slack", "Golang", "Socket Mode", "App Home", "Ephemeral Messages"]
+tags: ["Slack", "Golang"]
 images:
 - https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/472b5470-55e8-4f4d-ab68-08d2bf3bee2b/19V15W8s7J8EA3R1yRdX-kQ.png
 - https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/26247631-1e20-4880-96c2-d29c04322bee/0zsymSczBxr8eN5ht.gif
