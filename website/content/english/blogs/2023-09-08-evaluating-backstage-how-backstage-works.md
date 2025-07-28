@@ -6,19 +6,6 @@ categories: ["DevOps", "Backstage", "Internal Developer Platform"]
 tags: ["Backstage", "Plugins", "Security", "Developer Experience", "IDP"]
 images:
 - https://www.kosli.com/images/blog/kosli-blog-evaluating-backstage-how-backstage-works-social.jpg
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/10753ab0-8745-4f8b-95f9-0537dfccb97f/kosli-blog-evaluating-backstage-how-backstage-works_huf5a8b140c2d61068f3e598727d7df66b_418712_1366x0_resize_q90_h2_box.webp
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/433cbe07-613d-4850-91d4-0cbe61fb9ba0/Q9yhKPH.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/0abb1898-787b-49fa-a8d7-1c438ea5c883/rjV5wUX.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/1ba566cb-6cd6-4c29-b4dd-bb7cfbc1b4d6/78ZnreI.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/4ea862e6-2ca8-47de-a6a3-f596563983a8/xkqKpEx.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/c2592f85-db7e-4e3f-abff-19448eb81ea9/9IFYMZK.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/a202bb14-3f53-4891-b8e9-7e37f0684fb5/WbftMh4.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/c6cad105-cc20-4b16-8028-7cb42d4c5265/Es4W5Sc.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/47ceacc3-8087-47e2-ade4-11934ec57d21/59WHIOR.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/9aa88394-da04-42c5-b287-e649078ffaa2/CeilU05.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/47ae5953-1c80-4a57-826c-ffcbbf619eaa/Y0WvlCg.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/aa1ae0c9-0da6-4f0c-b48b-f56c18c969b8/QNUF6Uq.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/7b776898-b835-445d-836b-797fac6ff0d7/W4FtCwI.png
 ---
 
 > Original Article: [Evaluating Backstage: How Backstage Works](https://www.kosli.com/blog/evaluating-backstage-how-backstage-works/)
