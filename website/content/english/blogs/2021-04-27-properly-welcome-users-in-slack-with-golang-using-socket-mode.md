@@ -5,13 +5,7 @@ draft: false
 categories: ["Development", "Golang", "Slack"]
 tags: ["Slack", "Golang"]
 images:
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/472b5470-55e8-4f4d-ab68-08d2bf3bee2b/19V15W8s7J8EA3R1yRdX-kQ.png
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/26247631-1e20-4880-96c2-d29c04322bee/0zsymSczBxr8eN5ht.gif
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/34158a03-d2f5-45b8-ac82-b3a4dc1495df/1uShXcoRp_llEwjIwRp3XBA.gif
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/abf73223-ff1a-423b-aa2b-95d4633ff73e/161GO_0msCKKY0wAEjQd69g.gif
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/ec0715a6-9ef7-4612-9739-9dae9ae3fc4b/1KQkfC9RaixLhShPGsMZAhg.gif
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/11762afb-7163-4b8c-9507-288acffe3cfa/0NraonvSZTZIKBfNG.gif
-- https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/dd4676a5-0567-499f-82cc-38e6fcf3c36f/1rUbCH6NCWAztZCNRDDahRA.png
+- https://miro.medium.com/v2/resize:fit:1100/format:webp/1*9V15W8s7J8EA3R1yRdX-kQ.png
 ---
 
 [Original Article](https://levelup.gitconnected.com/properly-welcome-users-in-slack-with-golang-using-socket-mode-9a206d30a34a)
