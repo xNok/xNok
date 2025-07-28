@@ -3,7 +3,7 @@ title: "Setting and Rightsizing Kubernetes Resource Limits | Best Practices"
 date: 2021-09-07
 draft: false
 categories: ["Kubernetes", "DevOps"]
-tags: ["Kubernetes", "Resource Limits", "DevOps", "Cloud Native"]
+tags: ["Kubernetes", "DevOps", "Cloud Native"]
 images:
 - https://imgur.com/7afe43e1-4584-434a-91d4-4151216eb6c2
 ---
