@@ -32,12 +32,11 @@ jobs:
       KROKI_VERSION: 0.5.0
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
-          submodules: recursive
+          submodules: true
           # ssh-keygen -t ed25519 -C "git@github.com:mekitmedia/gethugothemes-editor.git"
-          ssh-key: |
-            ${{ secrets.SSH_PRIVATE_KEY_THEME }}
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY_THEME }}
 
       - name: Archive rendered images
         uses: actions/upload-artifact@v4
