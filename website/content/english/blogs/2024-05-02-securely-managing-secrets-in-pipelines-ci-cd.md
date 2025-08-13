@@ -21,6 +21,3 @@ In this article, I explore the critical aspects of **securely managing secrets**
 *   **Secret Vaults**: The current **industry standard** for centralized secret storage, offering robust security features and access controls (e.g., CI Provider Vaults, Cloud Provider Vaults, HashiCorp Vault). While effective, they don't inherently enforce **least privilege** or frequent **secret rotation**.
 *   **Short-lived Credentials**: The most advanced and recommended approach, involving temporary access tokens that expire after use. This method, often facilitated by protocols like **OpenID Connect (OIDC)**, eliminates the need for persistent secrets by relying on pipeline identity validation.
 
-## References
-
-*   [Gologic Article](https://www.gologic.ca/en/securely-managing-secrets-in-pipelines-ci-cd/)
