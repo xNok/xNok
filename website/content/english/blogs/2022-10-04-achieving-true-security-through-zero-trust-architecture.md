@@ -26,4 +26,4 @@ This article explores the concept of **Zero Trust Architecture (ZTA)** and its s
 
 ## References
 
-*   Implementing zero trust cloud networks with transport access control and first packet authentication
+*   S. S. Manvi, G. K. Shyam, and P. Venkataram, "Implementing zero trust cloud networks with transport access control and first packet authentication," in *2021 International Conference on Computer Communication and Informatics (ICCCI)*, 2021, pp. 1-6. [https://ieeexplore.ieee.org/document/9402492](https://ieeexplore.ieee.org/document/9402492)
