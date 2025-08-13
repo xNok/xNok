@@ -26,4 +26,8 @@ This article explores the concept of **Zero Trust Architecture (ZTA)** and its s
 
 ## References
 
-*   S. S. Manvi, G. K. Shyam, and P. Venkataram, "Implementing zero trust cloud networks with transport access control and first packet authentication," in *2021 International Conference on Computer Communication and Informatics (ICCCI)*, 2021, pp. 1-6. [https://ieeexplore.ieee.org/document/9402492](https://ieeexplore.ieee.org/document/9402492)
+* [A software-defined security strategy for supporting autonomic security enforcement in distributed cloud](https://hal.inria.fr/hal-01399458/file/PositionPaper-Draft.pdf)
+* [Implementing zero trust cloud networks with transport access control and first packet authentication](https://www.blackridge.us/sites/default/files/IEEE-Implementing-Zero-Trust-Cloud-Networks-with-Transport-Access-Control.pdf)
+* [Autonomic security for zero trust networks](http://content.ikr.uni-stuttgart.de/Content/Publications/Archive/Ve_WCIS2012_40147.pdf)
+* [Google Beyond Corp Design to Deployment, Login](https://www.usenix.org/system/files/login/articles/login_spring16_06_osborn.pdf)
+* [Access Control Policy enforcement for Zero-Trust Networking](https://www.researchgate.net/profile/Brian-Lee-45/publication/330489721_Access_Control_Policy_Enforcement_for_Zero-Trust-Networking/links/5d933eb4a6fdcc2554a9c1fe/Access-Control-Policy-Enforcement-for-Zero-Trust-Networking.pdf)
