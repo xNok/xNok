@@ -23,12 +23,3 @@ Furthermore, the article highlights the significance of **SDK quality** and **cl
 For modern architectures, the platform should be compatible with **serverless and edge functions**, offering strong retry policies. It also discusses how **event-driven systems** typically use an ingress service to authenticate webhooks before placing them on a message bus, ensuring guaranteed delivery.
 
 Finally, the article touches on **scalability concerns** for **multi-tenant** and **global applications**, requiring tenant-aware APIs and support for **data residency** (e.g., GDPR compliance). **Testing and DevOps** are also vital, with the need for detailed API specifications (Swagger/OAS), mock APIs, and high-fidelity sandbox environments for comprehensive testing. Post-integration, **operational considerations** include reviewing Service Level Agreements (SLAs) for uptime and delivery, clear communication channels, and access to logs and metrics for effective monitoring.
-
-## References
-
-*   Image 1: `https://cdn.prod.website-files.com/6541324a91f919eeb68e9608/688037ab2feb7eaaf72ea1b2_iStock-2185900367.webp`
-*   Image 2: `https://cdn.prod.website-files.com/6541324a91f919eeb68e9608/688037dbf0e0c72eab15cba8_AD_4nXceF1syxBi_qz3uQsF9cslnKPgrlSyQkE1KZyUBUl7KHWScSCkDgq09aHbYFqy-MzPbkpbRy_CN_DvJ3XM0uE0-NJ_NSjjfBqAqVTgEzPpUixOYemwwF-_WrreKUp30c7rG3UYrUg.webp`
-*   Image 3: `https://cdn.prod.website-files.com/6541324a91f919eeb68e9608/688037dbf0e0c72eab15cba4_AD_4nXfD6B2bCRF6L7ewDajKb3yD70S_kxPRqvGwKBSxOmy7NVot-SIDGt7ksSxV-DyE8RgSG4EJacbdHZ6EsGt_K1cvr7UWza8M35J2AYo1Wxe4uCWXwTeDvb1i8Lv6YGHi23JKVPem.webp`
-*   Image 4: `https://cdn.prod.website-files.com/6541324a91f919eeb68e9608/688037dbf0e0c72eab15cba1_AD_4nXeeLSNtQfYVlpfQ9pnOUbW_lGDTY1ZIL4RuU8hl3nkAcdm0VXzXURcRFPMW8U1WD-JHHV7x2KySbw3HZBjdwT9H6ENT37Azuqr_DRESmbs2F_53LcBkU-AQ7zpzCrwyBYmAaKRxyw.webp`
-*   Image 5: `https://cdn.prod.website-files.com/6541324a91f919eeb68e9608/688037dbf0e0c72eab15cbab_AD_4nXcUJo_9DETj8Vyf2z2hJGzW5V5D7jiC4Jch-3MeDR3VP4vhs-6LmzEz9u80GddH7xtNT6JFS4GSTsLmj8x3xbdjM2oQMp24yUhh9YL7vNfork4M7mlfyMdzQyOH361jEBCt_gJw8g.webp`
-*   Image 6: `https://cdn.prod.website-files.com/6541324a91f919eeb68e9608/68803718bf57686643602edb_Screenshot%202025-07-22%20at%208.12.28%E2%80%AFPM.webp`
