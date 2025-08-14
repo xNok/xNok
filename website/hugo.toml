@@ -251,8 +251,8 @@ copyright = "Droits d'auteur &copy;2021 <br> Conçu et Développé par [Gethugot
 
 # French contact form
 [Languages.fr.params.contact_form]
-kit_form_url = "https://fierce-innovator-1523.kit.com/fr-form-id/index.js"
-kit_data_id = "fr-form-id"
+kit_form_url = "https://fierce-innovator-1523.kit.com/257dd7e1c5/index.js"
+kit_data_id = "257dd7e1c5"
 
 
 ############# French navigation ##############
