@@ -3,7 +3,7 @@ title: "Version Control Security: Key Role in Deployment"
 date: 2024-02-09
 draft: false
 categories: ["Security"]
-tags: ["DevSecOps"]
+tags: ["DevSecOps", "Version Control", "Software Deployment"]
 images:
 - https://www.gologic.ca/wp-content/uploads/2024/01/Blog_4360-x-3267_Securite-6-1024x767.png
 ---

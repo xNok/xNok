@@ -3,7 +3,7 @@ title: "The DevSecOps Journey Begins with Identity"
 date: 2024-05-12
 draft: false
 categories: ["Security", "DevOps"]
-tags: ["DevSecOps", "IAM", "PAM", "Zero Trust", "Cloud Security"]
+tags: ["DevSecOps", "Zero Trust", "Cloud Security"]
 images:
   - "https://miro.medium.com/v2/resize:fit:1200/1*W_Swsqzdg2L7dH5CYBIJFg.png"
   - "https://miro.medium.com/v2/resize:fit:700/1*W_Swsqzdg2L7dH5CYBIJFg.png"

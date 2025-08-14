@@ -3,7 +3,7 @@ title: "Key Integration Considerations When Choosing an Identity Verification Pl
 date: 2025-07-23
 draft: false
 categories: ["Security"]
-tags: ["Identity Verification", "Integration", "APIs", "Security", "DevOps"]
+tags: ["APIs", "Security", "DevOps"]
 images:
   - https://cdn.prod.website-files.com/6541324a91f919eeb68e9608/688037ab2feb7eaaf72ea1b2_iStock-2185900367.webp
 ---

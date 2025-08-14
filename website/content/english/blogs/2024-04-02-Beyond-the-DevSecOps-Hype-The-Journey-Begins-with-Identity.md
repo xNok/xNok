@@ -3,7 +3,7 @@ title: "Beyond the DevSecOps Hype: The Journey Begins with Identity"
 date: 2024-04-02
 draft: false
 categories: ["Security"]
-tags: ["DevSecOps"]
+tags: ["DevSecOps", "Identity Management", "IAM"]
 images:
 - https://miro.medium.com/v2/resize:fit:1200/1*W_Swsqzdg2L7dH5CYBIJFg.png
 ---

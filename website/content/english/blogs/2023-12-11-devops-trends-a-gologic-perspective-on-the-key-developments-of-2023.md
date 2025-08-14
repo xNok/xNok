@@ -3,7 +3,7 @@ title: "DevOps Trends: A Gologic Perspective on the Key Developments of 2023"
 date: 2023-12-11
 draft: false
 categories: ["DevOps"]
-tags: ["DevOps", "DevSecOps", "Cloud", "SRE", "AI", "GitOps", "FinOps", "ChatOps", "Policy as Code"]
+tags: [ "DevSecOps", "GitOps", "FinOps", "ChatOps", "Policy as Code"]
 images:
 - https://www.gologic.ca/wp-content/uploads/2023/12/R%C3%A9trospective-DevOps-2023-1.png
 - https://cdn-cklan.nitrocdn.com/YrReRsuFxsGpWvJkqvmljTPLGThGPHEj/assets/images/optimized/rev-1b11a2d/www.gologic.ca/wp-content/uploads/2023/12/R%C3%A9trospective-DevOps-2023-1.png

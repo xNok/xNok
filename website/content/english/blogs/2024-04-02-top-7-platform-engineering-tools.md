@@ -3,8 +3,8 @@ title: "Top 7 Platform Engineering Tools"
 images:
   - "https://earthly.dev/blog/generated/assets/images/platform-engineering-tools/header-800-90b901a97.jpg"
 date: 2024-04-02
-tags: ["Platform Engineering", "DevOps", "Backstage", "Terraform", "Kubernetes", "Prometheus", "Logstash", "Jaeger", "SigNoz"]
-categories: ["Platform Engineering"]
+tags: ["Backstage", "Terraform"]
+categories: ["Platform Engineering", "Kubernetes"]
 draft: false
 ---
 
