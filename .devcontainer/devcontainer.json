@@ -1,5 +1,11 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "initializeCommand": {
+    "git rewrite ssh://git@github.com/": "git config --global --add url.https://x-access-token:${GITHUB_TOKEN}@github.com/.insteadOf ssh://git@github.com/",
+    "git rewrite git@github.com/": "git config --global --add url.https://x-access-token:${GITHUB_TOKEN}@github.com/.insteadOf git@github.com/",
+    "git rewrite git@github.com:": "git config --global --add url.https://x-access-token:${GITHUB_TOKEN}@github.com/.insteadOf git@github.com:",
+    "git clone submodules": "git submodule update --init --recursive"
+  },
   "customizations": {
     "codespaces": {
       "repositories": {
