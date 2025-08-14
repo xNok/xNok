@@ -109,6 +109,8 @@ search = true
 mainSections = ["blogs"]
 # custom script on header
 custom_script= ""
+# article excerpt settings
+excerpt_length = -1 # set to -1 to hide excerpt entirely
 
 # site variables
 [params.variables]
