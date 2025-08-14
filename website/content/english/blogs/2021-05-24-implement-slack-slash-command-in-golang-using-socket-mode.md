@@ -2,8 +2,8 @@
 title: "Implement Slack Slash Command in Golang using Socket Mode"
 date: 2021-05-24
 draft: false
-categories: ["Programming", "Slack", "Golang"]
-tags: ["Slack Slash Command", "Golang", "Socket Mode", "Block Kit"]
+categories: ["Programming"]
+tags: ["Slack", "Golang", "Socket Mode", "Block Kit"]
 images:
   - https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zrHYgmyoKFH_xz5uxBsMcA.png
 ---

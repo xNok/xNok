@@ -3,7 +3,7 @@ title: "All About the Security in the DevSecOps Methodology"
 date: 2022-08-10
 draft: false
 categories: ["Security"]
-tags: ["DevSecOps"]
+tags: ["DevSecOps", "Software Development"]
 images:
 - https://www.gologic.ca/wp-content/uploads/2022/08/devsecops.png
 ---

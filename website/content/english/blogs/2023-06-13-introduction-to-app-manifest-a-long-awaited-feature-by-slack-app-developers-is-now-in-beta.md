@@ -2,8 +2,8 @@
 title: "Introduction to App Manifest: A Long-Awaited Feature by Slack App Developers is Now in Beta"
 date: 2023-06-13
 draft: false
-categories: ["Slack"]
-tags: ["App Manifest", "Slack App"]
+categories: ["Programming"]
+tags: ["Slack"]
 images:
 - https://miro.medium.com/v2/resize:fit:1100/format:webp/0*YIpA9ty1rtafsCqa
 ---

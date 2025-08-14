@@ -2,7 +2,7 @@
 title: "Choosing the right DevOps training | GOLOGIC"
 date: 2022-03-28
 draft: false
-categories: ["DevOps", "Training"]
+categories: ["DevOps"]
 tags: ["DevOps", "Training", "Certifications", "Learning", "Career"]
 images:
   - https://www.gologic.ca/wp-content/uploads/2022/03/Tendances_Recommandations_Parcours_DevOps_20222.png

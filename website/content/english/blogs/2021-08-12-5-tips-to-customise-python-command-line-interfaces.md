@@ -1,7 +1,7 @@
 ---
 title: "5 Tips to Customise Python Command-Line Interfaces"
 date: 2021-08-12
-categories: ["Python", "CLI"]
+categories: ["Programming"]
 tags: ["Python", "CLI"]
 images:
   - https://miro.medium.com/v2/resize:fit:1100/format:webp/0*xv6SdFc-C3wIBUXo

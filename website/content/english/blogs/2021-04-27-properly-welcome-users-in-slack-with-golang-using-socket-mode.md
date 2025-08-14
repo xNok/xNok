@@ -2,7 +2,7 @@
 title: "Properly Welcome Users in Slack with Golang using Socket Mode"
 date: 2021-04-27
 draft: false
-categories: ["Development", "Golang", "Slack"]
+categories: ["Programming"]
 tags: ["Slack", "Golang"]
 images:
 - https://miro.medium.com/v2/resize:fit:1100/format:webp/1*9V15W8s7J8EA3R1yRdX-kQ.png

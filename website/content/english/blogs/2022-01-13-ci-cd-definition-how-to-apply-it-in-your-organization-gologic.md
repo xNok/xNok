@@ -3,7 +3,7 @@ title: "What is CI/CD and how to apply it in your organization?"
 date: 2022-01-13
 draft: false
 categories: ["DevOps"]
-tags: ["CI/CD", "DevOps"]
+tags: ["CI/CD", "DevOps", ]
 images:
   - https://www.gologic.ca/wp-content/uploads/2022/01/Article_Blogue_CICD_Application_Organisation.png.webp
 ---

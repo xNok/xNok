@@ -4,7 +4,7 @@ images:
   - https://miro.medium.com/max/902/1*AQ3-knCHXNJYTqsijexnIw.png
 date: 2022-05-04
 draft: false
-categories: ["DevOps", "Terraform", "GitHub Actions"]
+categories: ["DevOps"]
 tags: ["Terraform", "GitHub Actions", "Environments", "CI/CD", "DevOps"]
 ---
 

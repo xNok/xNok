@@ -3,7 +3,7 @@ title: "What is Developer Experience?"
 date: 2022-09-14
 draft: false
 categories: ["DevOps"]
-tags: ["DevXp"]
+tags: ["Developer Experience", "Support", "Documentation", "UI/UX"]
 images:
 - https://draft.dev/_next/image?url=https%3A%2F%2Fcandid-cookie.flywheelsites.com%2Fwp-content%2Fuploads%2F2025%2F02%2Fwhat-is-developer-experience.png&w=1920&q=90
 ---

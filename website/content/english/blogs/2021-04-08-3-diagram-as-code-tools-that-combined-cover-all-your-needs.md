@@ -2,8 +2,8 @@
 title: "3 Diagram as Code Tools That Combined Cover All Your Needs"
 date: 2021-04-08
 draft: false
-categories: ["Diagrams", "Development"]
-tags: ["Diagrams as Code", "Infrastructure", "UML", "PlantUML", "Draw.io"]
+categories: ["Programming"]
+tags: ["Diagrams as Code", "Infrastructure", "PlantUML", "Draw.io"]
 images:
 - https://miro.medium.com/v2/resize:fit:1100/format:webp/0*7bywZunS89jbAbXE
 ---

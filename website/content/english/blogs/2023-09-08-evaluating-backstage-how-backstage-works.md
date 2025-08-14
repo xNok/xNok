@@ -2,7 +2,7 @@
 title: "Evaluating Backstage: How Backstage Works"
 date: 2023-09-08
 draft: false
-categories: ["DevOps", "Backstage", "Internal Developer Platform"]
+categories: ["Programming", "DevOps"]
 tags: ["Backstage", "Plugins", "Security", "Developer Experience", "IDP"]
 images:
 - https://www.kosli.com/images/blog/kosli-blog-evaluating-backstage-how-backstage-works-social.jpg

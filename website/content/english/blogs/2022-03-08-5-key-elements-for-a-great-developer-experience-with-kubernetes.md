@@ -2,8 +2,8 @@
 title: "5 Key Elements for a Great Developer Experience with Kubernetes"
 date: 2022-03-08
 draft: false
-categories: ["DevOps"]
-tags: ["Kubernetes"]
+categories: ["DevOps", "Kubernetes"]
+tags: ["Developer Experience", "Local Development", "Self-Service", "Platform as a Product"]
 images: 
 - https://cdn.prod.website-files.com/65a5be30bf4809bb3a2e8aff/65dfa71c2395ee394994e259_jason-goodman-iqy_q-rqaio-unsplash.jpeg
 ---
