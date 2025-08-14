@@ -1,4 +1,14 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-   "features": {}
+  "features": {},
+  "runArgs": [
+    "--env-file", ".devcontainer/.env"
+  ],
+  "onCreateCommand": [
+    "bash",
+    ".devcontainer/setup-ssh.sh"
+  ],
+  "postCreateCommand": [
+    "git submodule update --init --recursive"
+  ]
 }

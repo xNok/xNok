@@ -15,3 +15,6 @@ jsconfig.json
 hugo_stats.json
 go.sum
 yarn.lock
+
+# Environment files with sensitive data
+.devcontainer/.env
