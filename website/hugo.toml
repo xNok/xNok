@@ -149,10 +149,8 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = false
-# mailchimp subsciption
-kit_form_url = "https://fierce-innovator-1523.ck.page/f5923b948c/index.js"
-kit_data_id = "f5923b948c"
+kit_form_url = "https://fierce-innovator-1523.kit.com/bc60db53ce/index.js"
+kit_data_id = "bc60db53ce"
 
 # cookies
 [params.cookies]
@@ -190,6 +188,11 @@ contentDir = "content/english"
 weight = 1
 # copyright
 copyright = "Copyright &copy;2021 <br> Designed &amp; Developed by [Gethugothemes](https://gethugothemes.com/)"
+
+# English contact form
+[Languages.en.params.contact_form]
+kit_form_url = "https://fierce-innovator-1523.kit.com/bc60db53ce/index.js"
+kit_data_id = "bc60db53ce"
 
 
 ############# English navigation ##############
@@ -245,6 +248,11 @@ contentDir = "content/french"
 weight = 2
 # copyright
 copyright = "Droits d'auteur &copy;2021 <br> Conçu et Développé par [Gethugothemes](https://gethugothemes.com/)"
+
+# French contact form
+[Languages.fr.params.contact_form]
+kit_form_url = "https://fierce-innovator-1523.kit.com/fr-form-id/index.js"
+kit_data_id = "fr-form-id"
 
 
 ############# French navigation ##############
