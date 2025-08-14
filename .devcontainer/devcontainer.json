@@ -1,6 +1,10 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {},
+  "features": {
+    "ghcr.io/devcontainers/features/go:1": {
+      "version": "latest"
+    }
+  },
   "runArgs": [
     "--env-file", ".devcontainer/.env"
   ],
@@ -9,6 +13,18 @@
     ".devcontainer/setup-ssh.sh"
   ],
   "postCreateCommand": [
-    "git submodule update --init --recursive"
-  ]
+    "bash",
+    ".devcontainer/install-hugo.sh"
+  ],
+  "postStartCommand": [
+    "bash",
+    ".devcontainer/start-hugo.sh"
+  ],
+  "forwardPorts": [1313],
+  "portsAttributes": {
+    "1313": {
+      "label": "Hugo Dev Server",
+      "onAutoForward": "openBrowser"
+    }
+  }
 }
