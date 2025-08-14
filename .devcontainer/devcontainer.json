@@ -1,18 +1,4 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "updateContentCommand": {
-    "git rewrite ssh://git@github.com/": "git config --global --add url.https://github.com/.insteadOf ssh://git@github.com/",
-    "git rewrite git@github.com/": "git config --global --add url.https://github.com/.insteadOf git@github.com/",
-    "git rewrite git@github.com:": "git config --global --add url.https://github.com/.insteadOf git@github.com:"
-  },
-  "postCreateCommand": "git submodule update --init",
-  "customizations": {
-    "codespaces": {
-      "repositories": {
-        "mekitmedia/gethugothemes-editor": {
-          "permissions": "write-all"
-        }
-      }
-    }
-  }
+   "features": {}
 }
