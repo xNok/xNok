@@ -1,3 +1,3 @@
 [submodule "website/themes/editor-hugo"]
 	path = website/themes/editor-hugo
-	url = git@github.com:mekitmedia/gethugothemes-editor.git
+	url = https://github.com/mekitmedia/gethugothemes-editor.git
