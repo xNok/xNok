@@ -1,0 +1,11 @@
+{
+  "customizations": {
+    "codespaces": {
+      "repositories": {
+        "mekitmedia/gethugothemes-editor": {
+          "permissions": "write-all"
+        }
+      }
+    }
+  }
+}
