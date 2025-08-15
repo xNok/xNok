@@ -97,6 +97,7 @@ logo_rotate = true
 # Meta data
 description = "My Personal Portfolio"
 author = "Alexandre Couedelo"
+image = "images/ac-website-og.png"
 # contact info
 # address = "9567 Turner Trace Apt. BC C3G8A4"
 # mobile = "+211234565523"
