@@ -12,16 +12,16 @@ images:
 
 ## Summary
 
-This article delves into the critical role of **Identity Management** as the foundation for a successful **DevSecOps** strategy, arguing that without a deep understanding of identity, security efforts will fall short. I explore the historical evolution of identity from simple client-server models to complex distributed and cloud-based systems. A significant part of the discussion is dedicated to the **three core domains of Identity Management**: **IAM** (Identity and Access Management), **PAM** (Privileged Access Management), and **IGA** (Identity Governance and Administration). I highlight that while IAM is well-known, many companies struggle with PAM and IGA, despite their equal importance in securing critical resources and managing the entire identity lifecycle. The article also introduces the **Zero Trust** security model, emphasizing the "never trust, always verify" principle, which is crucial in today's interconnected digital environment. My journey into demystifying security concepts highlights that mastering identity management is the true starting point for any effective DevSecOps implementation, far beyond relying solely on automated tooling.
+This article delves into the critical role of **Identity Management** as the foundational pillar for a successful **DevSecOps** strategy, arguing that effective security extends beyond automated tools. I explore the **historical evolution of identity**, from simple client-server models to complex distributed and cloud-based systems. A significant focus is placed on the **three core domains of Identity Management**: **IAM** (Identity and Access Management), **PAM** (Privileged Access Management), and **IGA** (Identity Governance and Administration). I highlight that while IAM is widely recognized, many organizations often overlook or struggle with PAM and IGA, despite their crucial importance in securing critical resources and managing the complete identity lifecycle. Furthermore, the article introduces the **Zero Trust** security model, advocating its "never trust, always verify" principle as a necessary paradigm shift from traditional perimeter-based security in today's interconnected digital landscape. My journey into demystifying security concepts underscores that mastering identity management, particularly PAM and IGA, is the true starting point for any effective DevSecOps implementation.
 
 ## Key Concepts
 
 *   **DevSecOps Philosophy**: Security is not just about tools; it requires deep understanding and proactive threat dissection.
 *   **Evolution of Identity**: From early **Client-Server** models and **Network Perimeter** defenses to modern **Distributed and Cloud-Based Systems**, identity management has continuously adapted.
 *   **Identity and Access Management (IAM)**: Focuses on user provisioning, access control, and strong authentication (e.g., MFA).
-*   **Privileged Access Management (PAM)**: Manages accounts with elevated permissions, implementing least privilege, session management, and auditing. I believe this is one of the more challenging concepts for companies.
-*   **Identity Governance and Administration (IGA)**: Establishes policies, ensures compliance, and streamlines the identity lifecycle from creation to deletion. This is also a concept I often see companies struggle with.
-*   **Zero Trust**: A paradigm shift "never trust, always verify," continuously verifying access regardless of location, moving beyond traditional perimeter-based security.
+*   **Privileged Access Management (PAM)**: Manages accounts with elevated permissions, enforcing least privilege, secure credential vaulting, session management, and auditing. I believe this is one of the more challenging concepts for companies.
+*   **Identity Governance and Administration (IGA)**: Establishes policies, ensures compliance, and streamlines the entire identity lifecycle. This is also a concept I often see companies struggle with.
+*   **Zero Trust**: A paradigm shift based on "never trust, always verify," continuously validating access requests regardless of origin.
 
 ## References
 
