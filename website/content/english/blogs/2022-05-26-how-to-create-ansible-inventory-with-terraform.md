@@ -30,4 +30,4 @@ This article shows you how I create an **Ansible inventory** using **Terraform**
 *   [GitHub provider for Terraform documentation](https://registry.terraform.io/providers/integrations/github/latest/docs)
 *   [digitalocean_droplet Terraform resource](https://registry.terraform.io/providers/digitalocean/digitalocean/latest/docs/resources/droplet)
 *   [github_repository_environment Terraform resource](https://registry.terraform.io/providers/integrations/github/latest/docs/resources/repository_environment)
-*   [github_actions_environment_secret Terraform resource](https://registry.terraform.com/providers/integrations/github/latest/docs/resources/actions_environment_secret)
+*   [github_actions_environment_secret Terraform resource](https://registry.terraform.io/providers/integrations/github/latest/docs/resources/actions_environment_secret)
