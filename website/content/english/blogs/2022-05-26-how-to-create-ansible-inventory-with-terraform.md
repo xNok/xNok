@@ -12,7 +12,7 @@ images:
 
 ## Summary
 
-This article guides you through creating an **Ansible inventory** using **Terraform**, effectively combining infrastructure provisioning with configuration management. You'll learn how I generate the inventory file with Terraform's `templatefile` function, store it as a **GitHub secret**, and leverage **GitHub Actions** for seamless automation of server configuration. The post emphasizes using dedicated tools for specific operations and provides practical examples for setting up your environment, including managing SSH key pairs for secure server connections. I delve into the benefits of this approach for sharing information between toolchains and streamlining your DevOps workflow.
+This article shows you how I create an **Ansible inventory** using **Terraform** to provision infrastructure and manage server configurations efficiently. I cover generating the inventory file with Terraform's templating functions, storing it as a **GitHub secret**, and integrating with **GitHub Actions** for seamless automation. By the end, you will understand how to set up your environment and handle **SSH key pairs** for connecting to your servers securely.
 
 ## Key Concepts
 
@@ -30,4 +30,4 @@ This article guides you through creating an **Ansible inventory** using **Terraf
 *   [GitHub provider for Terraform documentation](https://registry.terraform.io/providers/integrations/github/latest/docs)
 *   [digitalocean_droplet Terraform resource](https://registry.terraform.io/providers/digitalocean/digitalocean/latest/docs/resources/droplet)
 *   [github_repository_environment Terraform resource](https://registry.terraform.io/providers/integrations/github/latest/docs/resources/repository_environment)
-*   [github_actions_environment_secret Terraform resource](https://registry.terraform.io/providers/integrations/github/latest/docs/resources/actions_environment_secret)
+*   [github_actions_environment_secret Terraform resource](https://registry.terraform.com/providers/integrations/github/latest/docs/resources/actions_environment_secret)
