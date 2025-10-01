@@ -3,7 +3,7 @@ title: "SRE vs DevOps : What are the key differences? —Gologic"
 date: 2023-08-24
 draft: false
 categories: ["DevOps", "SRE", "Software Engineering"]
-tags: ["SRE", "DevOps", "Reliability", "Availability", "Continuous Delivery", "Software Development"]
+tags: ["SRE", "DevOps", "Continuous Delivery", "Software Development"]
 images:
 - https://www.gologic.ca/wp-content/uploads/2023/07/ff.png
 ---
