@@ -5,7 +5,7 @@ draft: false
 categories: ["Programming"]
 tags: ["CLI", "Python"]
 images:
-- https://miro.medium.com/v2/resize:fit:1100/format:webP/0*Q4UC19Tv1luG9nPS
+- https://miro.medium.com/v2/resize:fit:1100/format:webp/0*Q4UC19Tv1luG9nPS
 ---
 
 [Original Article](https://medium.com/codex/no-code-argument-parsing-for-command-line-interfaces-79b17a3813f2)
