@@ -40,7 +40,7 @@ In this article, you will discover the **key differences between Site Reliabilit
 Yes, the role of SRE (Site Reliability Engineer) often involves programming. SREs use programming skills to automate repetitive tasks, create tools and scripts to monitor and manage systems and resolve reliability issues. Programming is therefore a key skill for SREs.
 
 ### What are the best practices for integrating SRE or DevOps principles into an existing project?
-To integrate SRE vs DevOps principles into an existing project, it is recommended to follow these steps: assess the existing infrastructure and processes, foster collaboration between development and operations teams, and automate repetitive tasks. Using infrastructure as code (IaC) and implementing continuous integration (CI) and continuous deployment (CD) are also essential practices for improving project efficiency and reliability.
+To integrate SRE or DevOps principles into an existing project, it is recommended to follow these steps: assess the existing infrastructure and processes, foster collaboration between development and operations teams, and automate repetitive tasks. Using infrastructure as code (IaC) and implementing continuous integration (CI) and continuous deployment (CD) are also essential practices for improving project efficiency and reliability.
 
 ### What tools and technologies are commonly used by SRE and DevOps teams?
 SRE and DevOps teams commonly use tools such as Kubernetes, Docker, and Ansible for infrastructure management. They also utilize monitoring tools like Prometheus, ELK, and Grafana, as well as CI/CD pipeline automation tools like Jenkins, GitLab CI/CD, or Travis CI. Finally, configuration management tools like Puppet, Chef, or Ansible are also used.
