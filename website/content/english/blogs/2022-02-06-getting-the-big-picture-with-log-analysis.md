@@ -9,7 +9,7 @@ images:
 - https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fHBpY3R1cmV8ZW58MHx8fHwxNjQ4MTIyMTcz&ixlib=rb-1.2.1&q=80&w=2000
 ---
 
-[Original Article](https://blog.last9.io/getting-the-big-picture-with-log-analysis/)
+> Original Article : [Getting the big picture with Log Analysis](https://blog.last9.io/getting-the-big-picture-with-log-analysis/)
 
 ## Summary
 
