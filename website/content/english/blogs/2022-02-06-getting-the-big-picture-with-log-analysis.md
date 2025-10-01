@@ -13,11 +13,11 @@ images:
 
 ## Summary
 
-This article explores the critical role of **log analysis** in understanding and troubleshooting complex distributed systems. It emphasizes establishing a robust **log management** system, which involves collecting data from various sources, efficient cataloging, and intelligent indexing to facilitate effective searching. I learned the importance of distinguishing between **application logs**, **server logs**, **system logs**, **access logs**, and **change/deployment logs** to gain specific insights.
+This article explores the critical role of **log analysis** in understanding and troubleshooting complex distributed systems. It emphasizes establishing a robust **log management** system, which involves collecting data from various sources, efficient cataloging, and intelligent indexing to facilitate effective searching. The article demonstrates the importance of distinguishing between **application logs**, **server logs**, **system logs**, **access logs**, and **change/deployment logs** to gain specific insights.
 
 A key takeaway is the need for **data refinement** through pipelines to improve query efficiency for metrics like error rates, enabling long-term retention without heavy resource consumption. The article guides you in setting up **dashboards** for historical data visualization and creating **alerts** based on **Service Level Objectives (SLOs)** to prevent **alert fatigue**.
 
-Furthermore, I discovered that log analysis should drive **continuous improvement**. This involves adopting consistent **log standards** across the team, actively engaging junior members in log analysis for skill development, and striving for a **zero-error system** by proactively addressing logged errors. Ultimately, effective log analysis transforms raw data into actionable insights, enhancing system resilience and streamlining problem resolution.
+Furthermore, the article highlights that log analysis should drive **continuous improvement**. This involves adopting consistent **log standards** across the team, actively engaging junior members in log analysis for skill development, and striving for a **zero-error system** by proactively addressing logged errors. Ultimately, effective log analysis transforms raw data into actionable insights, enhancing system resilience and streamlining problem resolution.
 
 ## Getting Log Management Right
 
