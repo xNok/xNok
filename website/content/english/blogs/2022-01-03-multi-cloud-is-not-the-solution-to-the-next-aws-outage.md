@@ -5,34 +5,24 @@ draft: false
 categories: ["DevOps"]
 tags: ["Multi-Cloud", "AWS", "Disaster Recovery"]
 images: 
-  - https://miro.medium.com/v2/resize:fit:1100/format:webp/0*v3yLF0diiOcQIKaH
+  - https://prod-files-secure.s3.us-west-2.amazonaws.com/bd16a693-0437-45a1-9aec-255351a830a8/e1e3d17a-a889-4a7e-82a5-f0417c4f34cd/0v3yLF0diiOcQIKaH
 ---
 
-> Original Article: [Multi-Cloud is NOT the solution to the next AWS outage](https://faun.pub/multi-cloud-is-not-the-solution-to-the-next-aws-outage-bb41c0b14573)
+[Original Article](https://faun.pub/multi-cloud-is-not-the-solution-to-the-next-aws-outage-bb41c0b14573)
 
-## Summary
+In this article, I explore why **multi-cloud** is often not the right solution for handling **AWS outages**, especially if you're just starting with disaster recovery. Instead of relying on a complex multi-cloud setup, I focus on more practical and effective strategies to ensure your services remain available.
 
-In light of recent AWS outages, I felt compelled to delve deeper into disaster recovery strategies. This article explores the limitations of **multi-cloud solutions** and presents effective alternatives for ensuring service availability.
+I outline three main disaster recovery strategies, each with its own response time and cost implications:
 
-While multi-cloud solutions might seem like the ultimate answer, I argue that they aren't always the best approach, especially for those just starting with recovery strategies. Instead, I discuss architectural solutions and recovery plans that can help you prepare for the next outage.
+*   **Active-Recovery (Backup and Restore):** This is the most basic strategy, where you restore your infrastructure from backups in a new region. It's cost-effective but has the longest recovery time.
+*   **Active-Passive (Warm Standby):** A step up, this involves having a scaled-down version of your infrastructure running in a separate region that you can switch to during an outage.
+*   **Active-Active (Multi-site):** The most resilient and expensive option, where you have two or more active regions serving traffic simultaneously. This setup requires careful architectural planning, especially for data replication.
 
-## key Concepts
+I also touch on the complexities of a multi-cloud active-active setup and the challenges of remaining cloud-agnostic. While it might seem like the ultimate solution, it's often unnecessary and introduces significant overhead.
 
-*   **Active-Recovery (Backup and Restore):** This involves recreating resources in a new region after a disaster. It requires infrastructure automation and regular testing of recovery scripts. The main challenge is managing and replicating backups.
-    *   Response Time: ~Hours
-    *   Cost: ~$
+By the end of the article, you'll have a better understanding of how to build a resilient architecture without jumping straight to a multi-cloud solution.
 
-*   **Active-Passive (Warm Standby):** In this mode, the infrastructure is ready, and traffic redirection is the primary task. It adds overhead to the CD pipeline but allows for sanity checks before deployments.
-    *   Response Time: ~Minutes
-    *   Cost: ~$$
-
-*   **Active-Active (Multi-site):** This paradigm requires careful consideration of infrastructure and software design, especially concerning databases. Solutions include master/slave architecture and geo-partitioning.
-    *   Response Time: ~Seconds
-    *   Cost: ~$$$
-
-I also briefly touch on the complexities of an **Active-Active multi-cloud** setup and the challenges of maintaining cloud agnosticism.
-
-## References
+### References
 
 * [Amazon Explains The Cause Behind Tuesday's Massive AWS Outage](https://www.bleepingcomputer.com/news/technology/amazon-explains-the-cause-behind-tuesday-s-massive-aws-outage/)
 * [Disaster Recovery (DR) Architecture on AWS, Part IV: Multi-Site Active/Active](https://aws.amazon.com/blogs/architecture/disaster-recovery-dr-architecture-on-aws-part-iv-multi-site-active-active/)
