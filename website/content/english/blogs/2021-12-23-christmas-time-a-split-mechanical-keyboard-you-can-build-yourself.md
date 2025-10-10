@@ -8,11 +8,9 @@ images:
   - https://miro.medium.com/v2/resize:fit:1100/format:webp/1*7aSsyC4mGrKZoyTKNshWEg.jpeg
 ---
 
-> Original Article: [Christmas Time! A Split Mechanical Keyboard, You Can Build Yourself! 🎅](https://couedeloalexandre.medium.com/christmas-time-get-a-keyboard-you-can-build-yourself-5ef27c87210c)
+[Original Article](https://couedeloalexandre.medium.com/christmas-time-get-a-keyboard-you-can-build-yourself-5ef27c87210c)
 
-## Summary
-
-This article guides you through building your own **split mechanical keyboard** from scratch, emphasizing the **ergonomic benefits** gained by preventing wrist tilt and relaxing arms and shoulders. I summarize essential skills required, from **electronics** and **3D modeling** to **soldering** and component sourcing. The project is accessible and cost-effective, typically ranging from $50 to $150. You will learn about designing and printing a **PCB (Printed Circuit Board)**, choosing the right mechanical **switches** (clicky, tactile, linear; high vs. low profile), selecting **keycaps**, and understanding **microcontrollers** like Pro Micro, Elite-C, or Nice!nano for firmware (QMK). Additionally, I discuss designing the keyboard's **casing** (acrylic or 3D printed) and various **extra features** such as hot-swappable sockets, RGB LEDs, and OLED modules. The article provides step-by-step guidance, tips on component selection, and insights into customizing your keyboard for a unique and functional ergonomic typing experience.
+In this article, I guide you through building your own **split mechanical keyboard** from scratch. You'll learn essential skills like **designing and printing a PCB**, selecting components, and assembling the keyboard. I provide step-by-step guidance on choosing **switches** and **keycaps** and customizing your keyboard for a truly **ergonomic typing experience**. We'll also cover sourcing materials, **3D modeling** the casing, and even adding extra features like **RGB LEDs** or **OLED modules**. It's an accessible and cost-effective project, perfect for anyone curious about electronics and DIY projects.
 
 ## What skills do you need to create one of these beauties?
 
