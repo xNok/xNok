@@ -5,19 +5,13 @@ draft: false
 categories: ["Programming"]
 tags: ["Golang", "REST API"]
 images:
-- https://www.jetbrains.com/guide/assets/thumbnail-a22e3d85.png
+- https://www.jetbrains.com/go/guide/assets/thumbnail-a22e3d85.png
 ---
 
-> Original Article: [Go REST Guide. gorilla/mux Router](https://www.jetbrains.com/go/guide/tutorials/rest_api_series/gorilla-mux/)
+[Original Article](https://www.jetbrains.com/go/guide/tutorials/rest_api_series/gorilla-mux/)
 
-## Summary
+In this guide, I'll walk you through building a REST API in Go using the **gorilla/mux** router. This tutorial is perfect for you if you're looking to move beyond the standard `net/http` package and want to handle HTTP requests more efficiently.
 
-In this article, I will guide you through building a Golang REST API using the [Gorilla/Mux router](https://github.com/gorilla/mux). You will explore how a router enhances request handling in REST APIs, reducing code compared to the standard library. 
+I'll cover the main advantages of using a router and demonstrate how to set up and configure **gorilla/mux**. You'll also learn about more advanced features like **subrouters** for better code organization and **middleware** for creating reusable components. This will help you write cleaner, more modular, and more scalable APIs.
 
-Key points:
-
-*   **Router Benefits:** **Routers** streamline request dispatch to handler functions, cutting down on repetitive code.
-*   **gorilla/mux Features:**  how to define routes, handle HTTP methods, implement subrouters, and utilize middleware.
-*   **Practical Implementation:** Build a simple REST API, focusing on routers and exploring features like subrouters and middleware for reusable handler functionalities.
-
-This guide is part of a series where we compare building a REST API with the standard library, gorilla/mux and gin.
+By the end of this article, you'll have a solid understanding of how to build a REST API with **gorilla/mux** and be able to apply these concepts to your own projects.
