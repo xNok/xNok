@@ -1,50 +1,26 @@
 ---
 title: "Best Visuals for Technical Content and Why They Work"
-date: 2023-02-17
-draft: false
-categories: ["Technical Content"]
-tags: ["Visuals", "Diagrams", "Technical Writing", "Content Creation"]
-images:
-- https://miro.medium.com/v2/da:true/resize:fit:960/0*zFT8zxGbPDsCgCrK
+date: 2023-02-17T09:00:00.000Z
+lastmod: 2023-02-17T09:00:00.000Z
+author: ["Alexandre Couëdelo"]
+categories:
+  - "Software Engineering"
+  - "Technical Writing"
+tags:
+  - "Visuals"
+  - "Diagrams"
+  - "Technical Content"
+description: "In this article, I explore the different types of visuals that can be used to enhance technical content. From infographics to stick figures and hand-drawn illustrations, I discuss the strengths and weaknesses of each style and provide practical tools for creating them. I also delve into the world of structured diagrams, such as flowcharts and UML diagrams, and explain why they are a great option for conveying complex technical concepts. Whether you're a seasoned technical writer or just starting, this article will provide you with the insights and tools you need to create engaging and effective visuals for your content."
 ---
 
-> Original Article: [Best Visuals for Technical Content and Why They Work](https://betterprogramming.pub/best-visuals-for-technical-content-and-why-they-work-a69b4a1362a9)
+[Original Article](https://betterprogramming.pub/best-visuals-for-technical-content-and-why-they-work-a69b4a1362a9)
 
-## Summary
+As a technical writer, I've learned that **visuals** are not just a nice-to-have; they are essential for creating engaging and effective content. In this article, I want to share with you my journey of discovering the best visuals for technical content and why they work.
 
-In this article, I explore the critical role of **effective visuals** in technical content, advocating for unique and purposeful illustrations over generic stock images. I discuss various types of visuals, highlighting their strengths and why they resonate with readers:
+I used to rely on generic stock photos, but I soon realized they did little to enhance my articles. I decided to explore different visual styles to find what would best complement my writing. I experimented with various types of visuals, from **infographics** to **stick figures** and **hand-drawn illustrations**. Each style has its strengths and weaknesses, and the key is to choose the one that best fits your content and personal brand.
 
-*   **Infographics:** While requiring professional graphic design, they offer unmatched **uniqueness, professionalism, and brand identity**.
-*   **Stick Figures:** These are simple, engaging, and highly effective for conveying concepts humorously, making them memorable and shareable for **social media promotion**.
-*   **Sketch Notes:** They create a strong **personal connection** and make complex ideas more approachable, akin to personal study notes.
-*   **Hand-Drawn Illustrations:** Ideal for building a **personal brand**, these visuals convey creativity and simplify intricate processes with an immediate visual impact.
-*   **Box and Arrow Diagrams:** These combine **clarity, information, and a touch of creativity**, proving excellent for illustrating system designs and architectural concepts.
-*   **Flowcharts, UML, and Sequence Diagrams:** As structured and professional tools, these are perfect for conveying **precise technical information** and are easily maintainable through code.
+For those who are not artistically inclined, **structured diagrams** like **flowcharts** and **UML diagrams** are a great option. They are easy to create with tools like **PlantUML** and **Mermaid**, and they are incredibly effective at explaining complex technical concepts.
 
-I recommend that you, as a technical writer or content creator, consider starting with more structured diagrams if you lack artistic experience, gradually moving towards more creative visual styles as your confidence and skills develop. The ultimate goal is always to ensure your visuals accurately reflect your content and enhance reader comprehension and engagement.
+I've also found that using a consistent visual style can help you build a recognizable brand. For example, I've been using a mix of hand-drawn illustrations and structured diagrams in my articles, which has helped me create a unique and personal touch.
 
-## Popular Tools and Resources
-
-The article highlights several tools for creating these visuals:
-
-**Hand-Drawn (digital)**
-*   Sketchbook
-*   Procreate
-*   Adobe Fresco / Adobe Draw
-
-**Box and Arrows**
-*   Excalidraw
-*   Draw.io
-
-**Flowcharts, UML diagrams, etc.**
-*   Plantuml
-*   Mermaid
-
-## References
-
-*   [Real Python](https://realpython.com/)
-*   [What If? xkcd](https://what-if.xkcd.com/)
-*   [Rich Steinmetz's Blog](https://richstone.io/blog/)
-*   [Denilson Nastacio on Medium](https://dnastacio.medium.com/)
-*   [Petran's Substack](https://petran.substack.com/)
-*   [EDA Visuals by David Boyne](https://eda-visuals.boyney.io/)
+To help you on your journey, I've compiled a list of my favorite tools and resources for creating visuals. Whether you're a seasoned pro or a beginner, I hope this article will inspire you to create more engaging and effective visuals for your technical content.
