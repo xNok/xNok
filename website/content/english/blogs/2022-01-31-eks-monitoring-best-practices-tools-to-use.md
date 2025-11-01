@@ -33,7 +33,7 @@ You will heavily rely on **CloudWatch** as the central dashboarding and alerting
 
 ### Using ContainIQ for EKS Monitoring
 
-As you have seen, monitoring Kubernetes while relying only on AWS services involves a lot of tools. While it can be done, it doesn’t feel like the system was tailored-made for Kubernetes.
+As you have seen, monitoring Kubernetes while relying only on AWS services involves a lot of tools. While it can be done, it doesn’t feel like the system was tailor-made for Kubernetes.
 
 **ContainIQ** is a SaaS that makes getting started with Kubernetes monitoring easy. It can replace most AWS solutions in one centralized place and only requires a single agent to get set up. It provides a unified metrics dashboard that lets you see resource usages such as CPU and memory at the node level and at your application/Pod level. It also collects application logs and provides an aggregated logs dashboard.
 
