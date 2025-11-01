@@ -10,9 +10,7 @@ images:
 
 [Original Article](https://medium.com/codex/no-code-argument-parsing-for-command-line-interfaces-79b17a3813f2)
 
-## Summary
-
-I aim to simplify the creation of **Command-Line Interfaces (CLIs)** by leveraging the **docopt** library, allowing you to concentrate on crafting clear documentation rather than writing repetitive code. This article explains the fundamental components of a CLI, including **positional arguments**, **flags**, and **options**, and provides examples across various programming languages. You will discover how to use docopt for efficient argument parsing and robust validation in your projects.
+I wrote this article to show you how to simplify the creation of **command-line interfaces (CLIs)** using the **docopt** library. My goal is to help you focus on writing clear documentation instead of boilerplate code. I cover the essential components of a CLI, including **positional arguments**, **flags**, and **options**, and provide examples in various programming languages. By the end, you'll know how to leverage **docopt** for efficient argument parsing and validation in your own projects.
 
 ## Key Concepts
 
