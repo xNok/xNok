@@ -10,13 +10,11 @@ tags: ["Terraform", "GitHub Actions", "Environments", "CI/CD", "DevOps"]
 
 [Original Article](https://medium.com/p/d2b76766547b)
 
-## Summary
+In this article, I'll show you how I **automate GitHub environment configuration** using **Terraform**. This is a great way to streamline your **deployment workflows** in **GitHub Actions**. I'll walk you through the benefits of using GitHub environments, like setting up **environment-specific variables** and **protection rules** to keep your deployments secure. You'll also see how to maintain a clear **deployment history**.
 
-This article delves into **automating GitHub environment configuration** using **Terraform**, a key practice for streamlining **deployment workflows** within **GitHub Actions**. It highlights the significant advantages of leveraging GitHub environments, specifically their ability to facilitate **environment-specific variable** definitions, enforce robust **protection rules** to prevent unauthorized deployments, and maintain a comprehensive **deployment history**.
+I'll guide you through the practical steps, from setting up the **GitHub Terraform provider** and authenticating with a **personal access token**, to provisioning **secrets** into your GitHub environments. I'll also cover how to configure **branch protection rules** and add **deployment reviewers** for that extra layer of security.
 
-I demonstrate the practical steps involved, including setting up the **GitHub Terraform provider** and authenticating securely with a **personal access token**. The article guides you through the process of provisioning **secrets** into GitHub environments using Terraform, emphasizing best practices for managing sensitive information (with a note on the benefits of Terraform Cloud for state file security). Furthermore, I explain how to configure **branch protection rules** and implement **deployment reviewers** to introduce crucial manual approval steps, ensuring controlled and secure deployments.
-
-This integration of Terraform with GitHub is presented as a method to significantly reduce manual interventions and enhance the security posture of your **CI/CD pipelines**. This work is part of a larger series focused on self-hosted projects using Terraform, Ansible, and GitHub.
+By the end, you'll have a solid understanding of how to use Terraform to reduce manual work and improve the security of your **CI/CD pipelines**. This is part of a larger series I'm working on about self-hosted projects with Terraform, Ansible, and GitHub.
 
 ## Key Concepts
 
