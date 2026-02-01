@@ -1,10 +1,23 @@
 # Hi there! 👋
 
-I am a passionate **Software Supply Chain and Automation Specialist (aka. DevOps)**. I publish many technical articles to share my knowledge and view on the IT world.
+I am a seasoned DevOps/Platform Engineer, or as I prefer to call it, a **Software Supply Chain Automation Specialist**.
 
-In my Github profile, I keep a somewhat complete list of all the articles I have written. So please have a look :smile:
+---
 
-⭐ To stay up to date with my latest article, Follow me on [Twitter](https://twitter.com/AlexCouedelo), [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alexandre-couedelo) or Signup for [Medium](https://alexandre-couedelo.medium.com/membership).
+⭐ Let's connect
+
+[Twitter](https://twitter.com/AlexCouedelo), [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alexandre-couedelo) [Medium](https://medium.com/@alexandre-couedelo).
+
+---
+
+
+* [xnok/infra-boostrap-tools]
+* [mekitmedia/mini-me]
+* [mekitmedia/cncf-landscape-a-to-z]
+* [xNok/emma]
+
+
+* [xNok/hugo-quickstart]
 
 ## 🧰 DEVOPS AND LEAN THINKING Toolbox
 
