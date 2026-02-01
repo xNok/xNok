@@ -8,19 +8,19 @@ Building a platform is just laying down the bricks. The real engineering challen
 
 ⭐ Let's connect
 
-[Twitter](https://twitter.com/AlexCouedelo), [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alexandre-couedelo) [Medium](https://medium.com/@alexandre-couedelo).
+[Twitter](https://twitter.com/AlexCouedelo) - [Linkedin](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=alexandre-couedelo) - [Medium](https://medium.com/@alexandre-couedelo) - [Personal Website](https://xnok.github.io/xNok/)
 
 ---
 
 ## 🧪 Personal Projects & Labs
 
 * [xnok/infra-boostrap-tools](https://github.com/xNok/infra-bootstrap-tools): A personal lab for hybrid cloud and bare-metal logistics, testing how logic interacts with raw hardware.
-  * agentic-framework: Engineering Python-based autonomous AI workflows.
-  * n8n-workflows: Orchestrating delivery through no-code AI automation.
-  * openziti-mesh: Implementing zero-trust networking for secure supply chain transit.
-  * docker-swarm-env: Production-grade orchestration for stable "brick" deployment.
-  * ibt: Standardising CLI and environment tools for reproducible builds.
-  * changeset-release-mgmt: Automating the versioning and release of supply chain artefacts.
+  * **agentic-framework**: Engineering Python-based autonomous AI workflows.
+  * **n8n-workflows**: Orchestrating delivery through no-code AI automation.
+  * **openziti-mesh**: Implementing zero-trust networking for secure supply chain transit.
+  * **docker-swarm-env**: Production-grade orchestration for stable "brick" deployment.
+  * **ib**t: Standardising CLI and environment tools for reproducible builds.
+  * **changeset-release-mgmt**: Automating the versioning and release of supply chain artefacts.
 * [mekitmedia/cncf-landscape-a-to-z](https://github.com/mekitmedia/cncf-landscape-a-to-z): A research project and newsletter filtering the CNCF ecosystem for tools that actually solve the logistics of delivery.
 * [xNok/emma](https://github.com/xNok/emma): Engineering provider-agnostic serverless patterns. Leveraging WASM and Edge compute to ensure logic is never locked to a single "brick."
 
