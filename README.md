@@ -34,6 +34,4 @@ Building a platform is just laying down the bricks. The real engineering challen
 
 ## &#x1f4c8; GitHub Stats
 
-![Visitor Count](https://profile-counter.glitch.me/xNok/count.svg)
-
 <a href="https://app.daily.dev/xNok"><img src="https://api.daily.dev/devcards/607eb052e61d4f3abeb94a3c9410b019.png?r=qss" width="400" alt="Alexandre Couedelo's Dev Card"/></a>
