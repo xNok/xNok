@@ -8,7 +8,7 @@ images:
 - https://miro.medium.com/v2/resize:fit:1400/1*Gy2_ezWVpQNTuTlgNMS5OQ.jpeg
 ---
 
-> Original Article: [Nix Home-Manager: Discoveries and Learnings](https://levelup.gitconnected.com/nix-home-manager-discoveries-and-learnings-ed42bfa1cd33)
+> Original Article: [Nix Home-Manager: Discoveries and Learnings](https://levelup.gitconnected.com/nix-home-manager-discoveries-and-learnings-ed42bfa1cd33?sk=52f9c0f3f476dfecb2f55ffe201d22fa)
 
 ## Summary
 
@@ -42,4 +42,4 @@ While standalone `home.nix` configurations are functional, migrating to **Nix Fl
 *   [Home-Manager GitHub Repository](https://github.com/nix-community/home-manager)
 *   [Nix Reference Manual](https://nixos.org/manual/nix/stable/)
 *   [infra-bootstrap-tools GitHub Repository](https://github.com/xNok/infra-bootstrap-tools)
-*   [The Holy Grail of Development Environments: My Journey to Nix](https://levelup.gitconnected.com/the-holy-grail-of-development-environments-my-journey-to-nix-b808c8957b45)
+*   [The Holy Grail of Development Environments: My Journey to Nix](https://levelup.gitconnected.com/the-holy-grail-of-development-environments-my-journey-to-nix-b808c8957b45?sk=c07f785ab448c66b1b9dc203737da6a8)

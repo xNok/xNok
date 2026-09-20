@@ -5,10 +5,10 @@ draft: false
 categories: ["DevOps", "CI/CD"]
 tags: ["Changesets", "Semantic Release", "Release Management", "CI/CD"]
 images:
-- https://miro.medium.com/1*DoRUmGzdpkYGJYuy08kNZw.jpeg
+- https://miro.medium.com/v2/resize:fit:1400/format:webp/1*7r3B_Lqs5cMIiAGIbDvtPQ.jpeg
 ---
 
-> Original Article: [Intentional Releases: Why I Chose Changesets Over Semantic-Release](https://levelup.gitconnected.com/intentional-releases-why-chose-changesets-over-semantic-release-9d16d693540b)
+> Original Article: [Intentional Releases: Why I Chose Changesets Over Semantic-Release](https://levelup.gitconnected.com/intentional-releases-why-chose-changesets-over-semantic-release-9d16d693540b?sk=80df89d27bb7555d75f60032b0bd04d9)
 
 ## Summary
 

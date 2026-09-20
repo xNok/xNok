@@ -5,10 +5,10 @@ draft: false
 categories: ["Development Tools", "DevOps"]
 tags: ["Nix", "Docker", "DevExp", "Linux"]
 images:
-- https://miro.medium.com/1*DoRUmGzdpkYGJYuy08kNZw.jpeg
+- https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-fNHMVNJk1gR17JeJ2-O1Q.jpeg
 ---
 
-> Original Article: [The Holy Grail of Development Environments: My Journey to Nix](https://levelup.gitconnected.com/the-holy-grail-of-development-environments-my-journey-to-nix-b808c8957b45)
+> Original Article: [The Holy Grail of Development Environments: My Journey to Nix](https://levelup.gitconnected.com/the-holy-grail-of-development-environments-my-journey-to-nix-b808c8957b45?sk=c07f785ab448c66b1b9dc203737da6a8)
 
 ## Summary
 
