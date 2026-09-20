@@ -1,7 +1,11 @@
 ---
 title: "Improve your Software Development Process with Value Stream Mapping"
-date: 2022-10-10T00:00:00.000Z
-image: "https://miro.medium.com/max/512/1*aRp3pkc4xN8SWqklVHTDgg.png"
+date: 2022-10-10
+draft: false
+categories: ["DevOps"]
+tags: ["DevOps", "Value Stream Mapping", "Agile"]
+images:
+  - "https://miro.medium.com/max/512/1*aRp3pkc4xN8SWqklVHTDgg.png"
 description: "A summary of my article on how Value Stream Mapping can improve your software development process."
 ---
 

@@ -4,8 +4,10 @@ date: 2022-01-31
 draft: false
 github_link: "https://github.com/xNok/xNok"
 author: "Alexandre Couëdelo"
+categories: ["Kubernetes", "DevOps"]
 tags: ["Kubernetes", "EKS", "Monitoring", "DevOps"]
-image: "https://www.containiq.com/post/eks-monitoring/62267b5fcb6d648b04c718f8_EKS_monitoring.png"
+images:
+  - "https://www.containiq.com/post/eks-monitoring/62267b5fcb6d648b04c718f8_EKS_monitoring.png"
 description: "In this technical blog article, you will learn about best practices and tools for monitoring your EKS (Elastic Kubernetes Service) cluster."
 ---
 

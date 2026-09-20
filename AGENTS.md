@@ -48,9 +48,11 @@ draft: false
 categories: ["Development Tools", "DevOps"] # Choose relevant categories (e.g. DevOps, Kubernetes, Security, Development Tools)
 tags: ["Nix", "Home-Manager", "Linux", "DevExp"]
 images:
-- https://miro.medium.com/... # Primary thumbnail / cover image URL
+- https://miro.medium.com/... # Primary thumbnail / cover image URL (MUST be a list, required by theme widgets)
 ---
 ```
+> [!IMPORTANT]
+> The theme's `recent-post` widget requires `images:` to be a list containing at least one image URL (e.g. `images:\n  - "..."`). Omitting `images:` or using `image: "..."` will cause Hugo template rendering errors (`error calling first: both limit and seq must be provided`).
 
 ### Content Layout & Conventions
 Each blog post acts as an accessible, structured technical summary/mirror of an article published on Medium, ITNEXT, Level Up Coding, or other publications.
