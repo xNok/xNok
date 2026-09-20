@@ -1,0 +1,38 @@
+{{ "<!-- tags -->" | safeHTML }}
+<div class="widget">
+  <span class="widget-title">{{ i18n "tags" }}</span>
+  {{ if isset site.Taxonomies "tags" }}
+  {{ $tags := site.Taxonomies.tags.ByCount }}
+  {{ $total := len $tags }}
+  {{ if gt $total 0 }}
+  {{ $limit := site.Params.widgets.tags_limit | default 15 }}
+  <ul class="sidebar-post-tags list-unstyled list-inline mb-0">
+    {{ range first $limit $tags }}
+    <li class="list-inline-item"><a href="{{ .Page.RelPermalink }}">{{ .Page.Title | default .Name }}</a></li>
+    {{ end }}
+  </ul>
+  {{ if gt $total $limit }}
+  <div class="collapse" id="more-tags">
+    <ul class="sidebar-post-tags list-unstyled list-inline mt-2 mb-0">
+      {{ range after $limit $tags }}
+      <li class="list-inline-item"><a href="{{ .Page.RelPermalink }}">{{ .Page.Title | default .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="text-center mt-3">
+    <button class="btn btn-sm btn-outline-secondary py-1 px-3 tags-toggle-btn" type="button" data-toggle="collapse" data-target="#more-tags" aria-expanded="false" aria-controls="more-tags">
+      <span class="tags-toggle-more">Show more (+{{ sub $total $limit }})</span>
+      <span class="tags-toggle-less">Show less</span>
+    </button>
+  </div>
+  <style>
+    #more-tags:not(.show) ~ div .tags-toggle-less { display: none; }
+    #more-tags:not(.show) ~ div .tags-toggle-more { display: inline; }
+    #more-tags.show ~ div .tags-toggle-more { display: none; }
+    #more-tags.show ~ div .tags-toggle-less { display: inline; }
+    .tags-toggle-btn { font-size: 13px; border-radius: 20px; transition: all 0.2s ease-in-out; }
+  </style>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+</div>

@@ -3,7 +3,7 @@ title: "Christmas Time! A Split Mechanical Keyboard, You Can Build Yourself! ðŸŽ
 date: 2021-12-23
 draft: false
 categories: ["DIY", "Electronics"]
-tags: ["keyboard", "mechanical keyboard", "split keyboard", "ergonomics", "DIY", "PCB", "3D printing", "electronics"]
+tags: ["Keyboard", "Mechanical Keyboard", "Split Keyboard", "Ergonomics", "DIY", "PCB", "3D printing", "Electronics"]
 images:
   - https://miro.medium.com/v2/resize:fit:1100/format:webp/1*7aSsyC4mGrKZoyTKNshWEg.jpeg
 ---

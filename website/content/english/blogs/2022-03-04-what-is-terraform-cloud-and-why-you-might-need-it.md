@@ -3,7 +3,7 @@ title: "💡 What is Terraform Cloud and why you might need it?"
 date: 2022-03-04
 draft: false
 categories: ["DevOps"]
-tags: ["Terraform", "Terraform Cloud", "IaC"]
+tags: ["Terraform", "Terraform Cloud", "Infrastructure as Code"]
 images:
 - https://miro.medium.com/v2/resize:fit:720/format:webp/1*KkKtK1D5ZVmJGYqj9Yeq2w.png
 ---

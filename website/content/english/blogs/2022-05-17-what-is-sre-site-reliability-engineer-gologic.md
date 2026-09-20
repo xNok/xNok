@@ -3,7 +3,7 @@ title: "What is SRE (site reliability engineer)?"
 date: 2022-05-17
 draft: false
 categories: ["DevOps"]
-tags: ["SRE", "DevOps", "SLO", "SLA"]
+tags: ["SRE", "DevOps", "SLOs", "SLA"]
 images:
 - https://www.gologic.ca/wp-content/uploads/2022/05/Untitled-design41.png
 ---

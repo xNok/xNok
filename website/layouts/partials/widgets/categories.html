@@ -1,0 +1,39 @@
+{{ "<!-- categories -->" | safeHTML }}
+<div class="widget">
+  <span class="widget-title">{{ i18n "categories" }}</span>
+
+  {{ if isset site.Taxonomies "categories" }}
+  {{ $categories := site.Taxonomies.categories.ByCount }}
+  {{ $total := len $categories }}
+  {{ if gt $total 0 }}
+  {{ $limit := site.Params.widgets.categories_limit | default 6 }}
+  <ul class="sidebar-post-categories list-unstyled mb-0">
+    {{ range first $limit $categories }}
+    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title | default .Name }} <span>{{ .Count }}</span></a></li>
+    {{ end }}
+  </ul>
+  {{ if gt $total $limit }}
+  <div class="collapse" id="more-categories">
+    <ul class="sidebar-post-categories list-unstyled mt-0 mb-0">
+      {{ range after $limit $categories }}
+      <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title | default .Name }} <span>{{ .Count }}</span></a></li>
+      {{ end }}
+    </ul>
+  </div>
+  <div class="text-center mt-3">
+    <button class="btn btn-sm btn-outline-secondary py-1 px-3 categories-toggle-btn" type="button" data-toggle="collapse" data-target="#more-categories" aria-expanded="false" aria-controls="more-categories">
+      <span class="categories-toggle-more">Show more (+{{ sub $total $limit }})</span>
+      <span class="categories-toggle-less">Show less</span>
+    </button>
+  </div>
+  <style>
+    #more-categories:not(.show) ~ div .categories-toggle-less { display: none; }
+    #more-categories:not(.show) ~ div .categories-toggle-more { display: inline; }
+    #more-categories.show ~ div .categories-toggle-more { display: none; }
+    #more-categories.show ~ div .categories-toggle-less { display: inline; }
+    .categories-toggle-btn { font-size: 13px; border-radius: 20px; transition: all 0.2s ease-in-out; }
+  </style>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+</div>
