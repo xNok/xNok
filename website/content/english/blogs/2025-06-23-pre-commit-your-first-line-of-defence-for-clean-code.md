@@ -3,7 +3,7 @@ title: "Pre-commit: Your First Line of Defence for Clean Code"
 date: 2025-06-23
 draft: false
 categories: ["Development Tools"]
-tags: ["Code Quality", "CI/CD", "DevExp" ]
+tags: ["Code Quality", "CI/CD", "Developer Experience"]
 images:
 - https://miro.medium.com/v2/resize:fit:1050/1*0R8G80N2M8MaOCkPAkI6jQ.png
 ---

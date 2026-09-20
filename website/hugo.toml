@@ -162,6 +162,8 @@ expire_days = 2
 ######################## sidebar widgets #########################
 [params.widgets]
 sidebar = ["about-me", "recent-post", "categories", "tags"]
+tags_limit = 15
+categories_limit = 6
 # available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
 
 ############################# social site ########################

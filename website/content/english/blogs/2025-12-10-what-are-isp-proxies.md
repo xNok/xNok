@@ -3,7 +3,7 @@ title: "What are ISP proxies?"
 date: 2025-12-10
 draft: false
 categories: ["Web Scraping"]
-tags: ["proxies", "ISP proxies", "web scraping", "datacenter proxies", "residential proxies", "anonymity", "rate limiting", "geo-location"]
+tags: ["Proxies", "ISP Proxies", "Web Scraping", "Datacenter Proxies", "Residential Proxies", "Anonymity", "Rate Limiting", "Geo-Location"]
 images:
   - "https://www.scrapingbee.com/blog/isp-proxy/cover_hu18047000366882754256.png"
 ---

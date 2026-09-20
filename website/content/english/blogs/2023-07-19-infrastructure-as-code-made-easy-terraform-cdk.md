@@ -3,7 +3,7 @@ title: "Infrastructure as Code Made Easy: A Beginner’s Guide to Terraform CDK"
 date: 2023-07-19
 draft: false
 categories: ["DevOps"]
-tags: ["Terraform", "IaC"]
+tags: ["Terraform", "Infrastructure as Code"]
 images:
   - https://earthly.dev/blog/generated/assets/images/IaC-terraform-cdk/header-800-167599356.jpg
 ---
